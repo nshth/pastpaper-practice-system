@@ -1,106 +1,76 @@
 import os
-import re
-import sys
+import base64
+import json
+from io import BytesIO
+from pdf2image import convert_from_path
 from mistralai.client import Mistral
 from dotenv import load_dotenv
-import json
 
 load_dotenv(".env")
+
 api_key = os.getenv("MISTRAL_API_KEY")
 client = Mistral(api_key=api_key)
 
-scheme_pdf_path = "data/raw/schemes/24-ppms-ict-en-part-1.pdf"
+model = "mistral-small-latest"
+
+pdf_path = "data/raw/schemes/24-ppms-ict-en-part-1.pdf"
+
+pages = convert_from_path(pdf_path, first_page=1, last_page=1)
+buffered = BytesIO()
+pages[0].save(buffered, format="JPEG")
+base64_image = base64.b64encode(buffered.getvalue()).decode('utf-8')
+
+prompt = """
+Extract the MCQ answers from this marking scheme image into a structured JSON format.
+The output must be a JSON object where the keys are question numbers (1-50) 
+and the values are the correct option numbers.
+
+Requirements:
+1. If a question has multiple answers (e.g., '4,5'), represent them as an array: [4, 5].
+2. If the answer is 'ALL', represent it as ["ALL"].
+3. Ensure all 50 questions are present.
+
+Return ONLY the raw JSON.
+"""
+
+messages = [
+    {
+        "role": "user",
+        "content": [
+            {"type": "text", "text": prompt},
+            {"type": "image_url", "image_url": f"data:image/jpeg;base64,{base64_image}"}
+        ]
+    }
+]
+
+response = client.chat.complete(model=model, messages=messages)
+
+raw_content = response.choices[0].message.content
+clean_json_str = raw_content.replace("```json", "").replace("```", "").strip()
 
 try:
-    uploaded_pdf = client.files.upload(
-        file={"file_name": os.path.basename(scheme_pdf_path), "content": open(scheme_pdf_path, "rb")},
-        purpose="ocr"
-    )
-    signed_url = client.files.get_signed_url(file_id=uploaded_pdf.id)
+    initial_data = json.loads(clean_json_str)
     
-    ocr_response = client.ocr.process(
-        model="mistral-ocr-latest",
-        document={"type": "document_url", "document_url": signed_url.url},
-        table_format="html",
-        
-    )
+    restructured_data = {}
     
-    processed_pages = []
-    for page in ocr_response.pages:
-
-        md = page.markdown
+    for q_num_str in sorted(initial_data.keys(), key=lambda x: int(x)):
+        val = initial_data[q_num_str]
         
-        if hasattr(page, 'tables') and page.tables:
-            for tbl in page.tables:
-                md = md.replace(f"[{tbl.id}]({tbl.id})", f"\n{tbl.content}\n")
-        
-        processed_pages.append(md)
+        if isinstance(val, list):
+            answers = val
+        else:
+            answers = [val]
+            
+        q_num_padded = q_num_str.zfill(2)
+        restructured_data[q_num_str] = {
+            "question_id": f"2024_P1_Q{q_num_padded}",
+            "answers": answers
+        }
 
-    full_markdown = "\n\n---\n\n".join(processed_pages)
-    table_match = re.search(r'<table>(.*?)</table>', full_markdown, re.DOTALL)
-    if not table_match:
-        print(" No table found")
-        exit(1)
+    with open("2024_P1_scheme.json", "w", encoding="utf-8") as f:
+        json.dump(restructured_data, f, indent=2)
 
-    table_html = table_match.group(1)
+    print(f"Restructured {len(restructured_data)} questions. Saved to scheme_data_vision.json")
 
-    # Parse table rows
-    rows = re.findall(r'<tr>(.*?)</tr>', table_html, re.DOTALL)
-    scheme_data = {}
-
-    # Skip header row (first row)
-    for row in rows[1:]:
-        cells = re.findall(r'<td>(.*?)</td>', row, re.DOTALL)
-        
-        # Process pairs: Q number + answer
-        for i in range(0, len(cells), 2):
-            if i + 1 < len(cells):
-                q_num_raw = cells[i].strip()
-                answer_raw = cells[i + 1].strip()
-                
-                # Extract number from "01." format
-                q_match = re.search(r'(\d+)', q_num_raw)
-                if not q_match:
-                    continue
-                
-                q_num = int(q_match.group(1))
-                
-                # Extract answers - handle ALL cases
-                answers = []
-                
-                # Remove HTML breaks first
-                clean_answer = answer_raw.replace('<br/>', ' ')
-                
-                # Find all numbers in the answer
-                nums = re.findall(r'\d+', clean_answer)
-                answers = [int(n) for n in nums]
-                
-                # Special case: if "ALL" or "S - ALL" found, mark as special
-                if 'ALL' in clean_answer:
-                    answers = ['ALL']  # Mark it as special
-                elif not answers:  # No numbers found, keep raw
-                    answers = None
-                
-                scheme_data[q_num] = {
-                    "question_id": f"2024_P1_Q{str(q_num).zfill(2)}",
-                    "answers": answers,
-                    "raw": answer_raw  # Debug: keep raw for inspection
-                }
-
-    # Print to verify
-    print(f"✅ Extracted {len(scheme_data)} answers")
-    for q_num in sorted(scheme_data.keys()):
-        print(f"  Q{q_num:02d}: {scheme_data[q_num]['answers']}")
-
-    # Save for next step (remove raw field)
-    clean_data = {k: {'question_id': v['question_id'], 'answers': v['answers']} 
-                for k, v in scheme_data.items()}
-
-    with open("scheme_data.json", "w", encoding="utf-8") as f:
-        json.dump(clean_data, f, indent=2)
-
-    print("\n✅ Saved to scheme_data.json")
-
-except Exception as e:
-    print(f"Error: {e}")
-    exit(1)
+except json.JSONDecodeError as e:
+    print(f"Failed to parse LLM output: {e}")

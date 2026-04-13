@@ -56,7 +56,6 @@ for page in ocr_response.pages:
 
 full_markdown = "\n\n---\n\n".join(processed_pages)
 
-# === EXTRACT QUESTIONS ===
 questions = []
 lines = full_markdown.split('\n')
 current_q = None
@@ -101,7 +100,6 @@ for line in lines:
 print(f"Extracted {len(questions)} questions")
 
 
-# === SAVE TO JSON ===
 os.makedirs("data/extracted/processed", exist_ok=True)
 
 with open("data/extracted/processed/2024_P1_questions.json", "w", encoding="utf-8") as f:
@@ -110,7 +108,7 @@ with open("data/extracted/processed/2024_P1_questions.json", "w", encoding="utf-
 with open("ocr_output_mapped.md", "w", encoding="utf-8") as f:
     f.write(full_markdown)
 
-print("✅ Saved: questions, schemes, markdown")
+print("Saved: questions, schemes, markdown")
 print("Files created:")
 print(f"  - data/extracted/2024_P1_questions.json ({len(questions)} Q)")
 print("  - ocr_output_mapped.md")
