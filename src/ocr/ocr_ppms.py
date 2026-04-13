@@ -67,7 +67,7 @@ try:
             "answers": answers
         }
 
-    with open("2024_P1_scheme.json", "w", encoding="utf-8") as f:
+    with open("data/extracted/processed/2024_P1_scheme.json", "w", encoding="utf-8") as f:
         json.dump(restructured_data, f, indent=2)
 
     print(f"Restructured {len(restructured_data)} questions. Saved to scheme_data_vision.json")
