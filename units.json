@@ -1,0 +1,100 @@
+[
+    {
+        "unit_id": "ICT_001",
+        "unit_name": "Concept of ICT",
+        "description": "Fundamental concepts of data, information, and the role of technology. Explores the data life cycle, characteristics of valuable information, manual data processing drawbacks, and the evolution of the ICT era including computer networks, the internet, WWW, mobile and cloud computing.",
+        "keywords": ["data", "information", "data life cycle", "ICT", "manual processing", "computer networks", "internet", "WWW", "mobile computing", "cloud computing", "big data"],
+        "combined_text": "Fundamental concepts of data, information, and the role of technology. Explores the data life cycle, characteristics of valuable information, manual data processing drawbacks, and the evolution of the ICT era including computer networks, the internet, WWW, mobile and cloud computing. keywords: data, information, data life cycle, ICT, manual processing, computer networks, internet, WWW, mobile computing, cloud computing, big data"
+    },
+    {
+        "unit_id": "ICT_002",
+        "unit_name": "Introduction to Computer",
+        "description": "Classification of computers by technology, purpose, and size. Explores hardware components (input, output, storage, CPU), the Von-Neumann architecture, fetch-execute cycle, memory hierarchy, and generations of computers.",
+        "keywords": ["hardware", "software", "CPU", "ALU", "control unit", "memory", "Von-Neumann", "fetch-execute cycle", "storage", "generations of computers", "multi-core processor"],
+        "combined_text": "Classification of computers by technology, purpose, and size. Explores hardware components (input, output, storage, CPU), the Von-Neumann architecture, fetch-execute cycle, memory hierarchy, and generations of computers. keywords: hardware, software, CPU, ALU, control unit, memory, Von-Neumann, fetch-execute cycle, storage, generations of computers, multi-core processor"
+    },
+    {
+        "unit_id": "ICT_003",
+        "unit_name": "Data Representation",
+        "description": "Methods of representing instructions and data in computers using binary states. Covers number systems (binary, octal, hexadecimal), conversions, representation of signed integers (sign-magnitude, one's complement, two's complement), and character representation schemes (ASCII, Unicode).",
+        "keywords": ["binary", "number system", "data representation", "signed integers", "two's complement", "ASCII", "Unicode", "octal", "hexadecimal"],
+        "combined_text": "Methods of representing instructions and data in computers using binary states. Covers number systems (binary, octal, hexadecimal), conversions, representation of signed integers (sign-magnitude, one's complement, two's complement), and character representation schemes (ASCII, Unicode). keywords: binary, number system, data representation, signed integers, two's complement, ASCII, Unicode, octal, hexadecimal"
+    },
+    {
+        "unit_id": "ICT_004",
+        "unit_name": "Fundamental of Digital Circuits",
+        "description": "Basic digital logic gates (NOT, AND, OR, XOR, NAND, NOR), their symbols, and truth tables. Simplification of logic expressions using Boolean algebra, De Morgan's laws, and Karnaugh maps. Introduction to combinational circuits (half adder, full adder) and sequential circuits (flip-flops).",
+        "keywords": ["logic gates", "truth table", "Boolean algebra", "De Morgan's law", "Karnaugh map", "SOP", "POS", "half adder", "full adder", "flip-flop"],
+        "combined_text": "Basic digital logic gates (NOT, AND, OR, XOR, NAND, NOR), their symbols, and truth tables. Simplification of logic expressions using Boolean algebra, De Morgan's laws, and Karnaugh maps. Introduction to combinational circuits (half adder, full adder) and sequential circuits (flip-flops). keywords: logic gates, truth table, Boolean algebra, De Morgan's law, Karnaugh map, SOP, POS, half adder, full adder, flip-flop"
+    },
+    {
+        "unit_id": "ICT_005",
+        "unit_name": "Computer Operating System",
+        "description": "Definition, evolution, and functions of an operating system (OS). Covers process management (states, scheduling), memory management (physical, virtual, paging), file management (hierarchy, allocation, security), I/O management (device drivers, spooling), and classifications of OS.",
+        "keywords": ["operating system", "process management", "memory management", "file system", "scheduler", "virtual memory", "device driver", "spooling", "FAT", "defragmentation"],
+        "combined_text": "Definition, evolution, and functions of an operating system (OS). Covers process management (states, scheduling), memory management (physical, virtual, paging), file management (hierarchy, allocation, security), I/O management (device drivers, spooling), and classifications of OS. keywords: operating system, process management, memory management, file system, scheduler, virtual memory, device driver, spooling, FAT, defragmentation"
+    },
+    {
+        "unit_id": "ICT_006",
+        "unit_name": "Data Communication and Networking",
+        "description": "Concepts of data communication including signals (analog/digital), transmission media (guided/unguided), encoding (Manchester), and modulation. Explores network topologies, MAC protocols (ALOHA, Ethernet), the Internet, IP addressing (IPv4, subnetting, CIDR, DHCP), routing, TCP/IP and OSI models, and network security (encryption, firewalls, malware).",
+        "keywords": ["networking", "signals", "modulation", "topology", "MAC", "IP address", "subnetting", "routing", "TCP/IP", "OSI model", "firewall", "encryption", "DNS", "HTTP", "PSTN"],
+        "combined_text": "Concepts of data communication including signals (analog/digital), transmission media (guided/unguided), encoding (Manchester), and modulation. Explores network topologies, MAC protocols (ALOHA, Ethernet), the Internet, IP addressing (IPv4, subnetting, CIDR, DHCP), routing, TCP/IP and OSI models, and network security (encryption, firewalls, malware). keywords: networking, signals, modulation, topology, MAC, IP address, subnetting, routing, TCP/IP, OSI model, firewall, encryption, DNS, HTTP, PSTN"
+    },
+    {
+        "unit_id": "ICT_007",
+        "unit_name": "System Analysis and Design",
+        "description": "System concepts and classification. Explores the System Development Life Cycle (SDLC) with a focus on the Waterfall model. Covers feasibility studies, requirement analysis (functional/non-functional), analytical tools (DFD, LDS, Business Activity Modeling), system design, development, testing (white/black box), deployment methods, and the use of off-the-shelf packages.",
+        "keywords": ["system", "SDLC", "waterfall model", "feasibility study", "requirement analysis", "DFD", "data flow diagram", "logical data structure", "testing", "deployment", "off-the-shelf", "business process reengineering"],
+        "combined_text": "System concepts and classification. Explores the System Development Life Cycle (SDLC) with a focus on the Waterfall model. Covers feasibility studies, requirement analysis (functional/non-functional), analytical tools (DFD, LDS, Business Activity Modeling), system design, development, testing (white/black box), deployment methods, and the use of off-the-shelf packages. keywords: system, SDLC, waterfall model, feasibility study, requirement analysis, DFD, data flow diagram, logical data structure, testing, deployment, off-the-shelf, business process reengineering"
+    },
+    {
+        "unit_id": "ICT_008",
+        "unit_name": "Database Management",
+        "description": "Introduction to databases and database models (flat file, relational). Covers relational database components (tables, tuples, attributes, constraints, keys), SQL (DDL, DML), conceptual design using ER diagrams (entities, relationships, cardinality), transformation to logical schema, and database normalization (1NF, 2NF, 3NF).",
+        "keywords": ["database", "DBMS", "SQL", "relational model", "ER diagram", "entity", "relationship", "primary key", "foreign key", "normalization", "1NF", "2NF", "3NF", "DDL", "DML"],
+        "combined_text": "Introduction to databases and database models (flat file, relational). Covers relational database components (tables, tuples, attributes, constraints, keys), SQL (DDL, DML), conceptual design using ER diagrams (entities, relationships, cardinality), transformation to logical schema, and database normalization (1NF, 2NF, 3NF). keywords: database, DBMS, SQL, relational model, ER diagram, entity, relationship, primary key, foreign key, normalization, 1NF, 2NF, 3NF, DDL, DML"
+    },
+    {
+        "unit_id": "ICT_009",
+        "unit_name": "Programming",
+        "description": "Problem-solving process, algorithms, flowcharts, and pseudo-code. Explores programming paradigms, program translation (compiler, interpreter), and imperative programming using Python. Covers program structure, data types, operators, control structures (sequence, selection, repetition), functions (built-in, user-defined), data structures (strings, lists, dictionaries), file handling, and basic search/sort algorithms (sequential search, bubble sort).",
+        "keywords": ["algorithm", "flowchart", "pseudocode", "programming", "Python", "control structures", "functions", "arrays", "lists", "dictionaries", "file handling", "sequential search", "bubble sort", "compiler", "interpreter"],
+        "combined_text": "Problem-solving process, algorithms, flowcharts, and pseudo-code. Explores programming paradigms, program translation (compiler, interpreter), and imperative programming using Python. Covers program structure, data types, operators, control structures (sequence, selection, repetition), functions (built-in, user-defined), data structures (strings, lists, dictionaries), file handling, and basic search/sort algorithms (sequential search, bubble sort). keywords: algorithm, flowchart, pseudocode, programming, Python, control structures, functions, arrays, lists, dictionaries, file handling, sequential search, bubble sort, compiler, interpreter"
+    },
+    {
+        "unit_id": "ICT_010",
+        "unit_name": "Web Development",
+        "description": "Web development concepts, planning, and design. Uses HTML5 for creating static web pages (tags, tables, lists, links, multimedia). Uses CSS for styling and layout. Introduces dynamic web pages using PHP and MySQL for form handling and database connectivity. Covers web publishing (local, internet) and performance factors.",
+        "keywords": ["web development", "HTML", "CSS", "PHP", "MySQL", "dynamic web page", "web hosting", "HTML tags", "CSS selectors", "forms", "client-server", "web authoring tool"],
+        "combined_text": "Web development concepts, planning, and design. Uses HTML5 for creating static web pages (tags, tables, lists, links, multimedia). Uses CSS for styling and layout. Introduces dynamic web pages using PHP and MySQL for form handling and database connectivity. Covers web publishing (local, internet) and performance factors. keywords: web development, HTML, CSS, PHP, MySQL, dynamic web page, web hosting, HTML tags, CSS selectors, forms, client-server, web authoring tool"
+    },
+    {
+        "unit_id": "ICT_011",
+        "unit_name": "Internet of Things",
+        "description": "Introduction to embedded systems and the Internet of Things (IoT). Explores microcontroller-based development systems (like Arduino) including features, IDE, and simple applications (sensors, actuators). Defines IoT, its needs, enabling technologies, and the social and security consequences, culminating in a simple IoT application.",
+        "keywords": ["IoT", "Internet of Things", "embedded system", "microcontroller", "Arduino", "sensor", "actuator", "physical computing", "IDE", "smart system"],
+        "combined_text": "Introduction to embedded systems and the Internet of Things (IoT). Explores microcontroller-based development systems (like Arduino) including features, IDE, and simple applications (sensors, actuators). Defines IoT, its needs, enabling technologies, and the social and security consequences, culminating in a simple IoT application. keywords: IoT, Internet of Things, embedded system, microcontroller, Arduino, sensor, actuator, physical computing, IDE, smart system"
+    },
+    {
+        "unit_id": "ICT_012",
+        "unit_name": "ICT in Business",
+        "description": "Role of ICT in the business world, covering the digital economy, e-commerce (B2B, B2C, etc.), and e-business models. Explores ICT's role in business functions (accounting, marketing, SCM) and secure payment mechanisms. Also covers e-marketing, the use of databases and AI in predicting customer behavior, and the threats and opportunities in e-commerce.",
+        "keywords": ["digital economy", "e-commerce", "e-business", "B2B", "B2C", "payment gateway", "digital marketing", "supply chain management", "pure click", "brick and click"],
+        "combined_text": "Role of ICT in the business world, covering the digital economy, e-commerce (B2B, B2C, etc.), and e-business models. Explores ICT's role in business functions (accounting, marketing, SCM) and secure payment mechanisms. Also covers e-marketing, the use of databases and AI in predicting customer behavior, and the threats and opportunities in e-commerce. keywords: digital economy, e-commerce, e-business, B2B, B2C, payment gateway, digital marketing, supply chain management, pure click, brick and click"
+    },
+    {
+        "unit_id": "ICT_013",
+        "unit_name": "New trends and Future Directions of ICT",
+        "description": "Exploration of new and future trends in ICT. Covers topics like intelligent/emotional computing, artificial intelligence, man-machine coexistence, agent technology (software agents, multi-agent systems), and new computing models beyond Von-Neumann (nature-inspired, bio-inspired, quantum computing).",
+        "keywords": ["artificial intelligence", "agent technology", "multi-agent system", "quantum computing", "nature inspired computing", "bio-inspired computing", "man-machine coexistence", "emotional computing"],
+        "combined_text": "Exploration of new and future trends in ICT. Covers topics like intelligent/emotional computing, artificial intelligence, man-machine coexistence, agent technology (software agents, multi-agent systems), and new computing models beyond Von-Neumann (nature-inspired, bio-inspired, quantum computing). keywords: artificial intelligence, agent technology, multi-agent system, quantum computing, nature inspired computing, bio-inspired computing, man-machine coexistence, emotional computing"
+    },
+    {
+        "unit_id": "ICT_014",
+        "unit_name": "Project",
+        "description": "A comprehensive project component where students design and implement a simple information system. Covers project planning, stakeholder roles, and the SDLC phases from problem identification and feasibility study through to design, implementation, testing, and final presentation/demonstration.",
+        "keywords": ["project", "information system", "stakeholder", "project planning", "SDLC", "implementation", "documentation", "Gantt chart", "feasibility study", "demonstration"],
+        "combined_text": "A comprehensive project component where students design and implement a simple information system. Covers project planning, stakeholder roles, and the SDLC phases from problem identification and feasibility study through to design, implementation, testing, and final presentation/demonstration. keywords: project, information system, stakeholder, project planning, SDLC, implementation, documentation, Gantt chart, feasibility study, demonstration"
+    }
+]

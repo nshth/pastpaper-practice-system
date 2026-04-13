@@ -1,0 +1,41 @@
+scheme ocr is not done, but can be done in 
+same script using a different func with finding 
+if scheme or paper by name logic with simple minor change in core logic
+
+0. scheme and question matching
+-> we need to match scheme with question then append it to the question.json 
+-> can easily retrieve it from db
+ex : "answer": (1) A - big data 
+or
+ex : "answer": (1).
+based on scheme format.
+
+1. rag classify
+-> Index all unit (units.json) descriptions into a vector DB (Chroma)
+-> Embed each question
+-> we got images downloaded inside images folder with exact 
+name mentioned in image = [] in question.json  
+ex : {
+    "question_id": "2024_P1_Q05",
+    "year": 2024,
+    "paper": 1,
+    "q_num": 5,
+    "text": "The figure below shows some components and connections on a computer motherboard. Power supply ![img-0.jpeg](images/img-0.jpeg) The labels A\u2013E indicate the following: A \u2013 hard disk B \u2013 ROM BIOS C \u2013 connector for audio port D \u2013 connector for network port E \u2013 connector for USB port What are indicated by the labels X, Y and Z respectively? <table><tr><td>(1)</td><td>X \u2013 connector for video port</td><td>Y \u2013 CPU</td><td>Z \u2013 memory</td></tr><tr><td>(2)</td><td>X \u2013 connector for video port</td><td>Y \u2013 memory</td><td>Z \u2013 CPU</td></tr><tr><td>(3)</td><td>X \u2013 CPU</td><td>Y \u2013 memory</td><td>Z \u2013 connector for video port</td></tr><tr><td>(4)</td><td>X \u2013 CPU</td><td>Y \u2013 connector for video port</td><td>Z \u2013 memory</td></tr><tr><td>(5)</td><td>X \u2013 memory</td><td>Y \u2013 connector for video port</td><td>Z \u2013 CPU</td></tr></table>",
+    "marks": 2,
+    "images": [
+      "images/img-0.jpeg"
+    ],
+    "tables": []
+  },
+-> retrieve and append unit in question.json once
+ex : "unit": 2,
+-> so no need to rag query every time user asks to classify based on unit 
+but we could just use a sql query which is cheap and no cost
+
+2. LLM review for low-confidence questions
+-> llm on auto with many llm models 
+-> only low confidence questions 
+-> same json append output
+ex : "unit": 2,
+
+
