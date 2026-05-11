@@ -1,26 +1,3 @@
-"""
-Run this once to extract and process the PDF(s) into units_chunks.json.
-Usage:
-    python extract_pdf.py --pdf1 eGr12TG_ICT.pdf --pdf2 <second_pdf_path>
-
-Output: units_chunks.json  — list of chunks, each with:
-    {
-        "unit_id":    "ICT_001",
-        "unit_number": 1,
-        "unit_name":  "Concept of ICT",
-        "competency_level": "1.1",          # sub-unit label from PDF
-        "text":       "<combined syllabus + lesson guide text>",
-        "keywords":   [...]                 # extracted from learning outcomes
-    }
-
-Strategy:
-- One chunk per competency level (e.g. 1.1, 1.2, ..., 7.7)
-- Each chunk = syllabus table content + lesson guide content combined
-- Unit number derived from competency prefix (1.x -> unit 1, etc.)
-- For units 8-14 (from pdf2): same logic applied
-- Falls back to units.json description for any unit with no PDF coverage
-"""
-
 import re
 import json
 import argparse

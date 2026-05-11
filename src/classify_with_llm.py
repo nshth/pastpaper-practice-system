@@ -1,12 +1,3 @@
-"""
-LLM fallback classifier for questions flagged needs_review=True.
-
-Uses the top-K chunk texts already stored in questions.json (by classify_questions.py)
-to give the LLM actual syllabus context — not just unit names.
-
-Model rotation cycles through Groq models to stay within rate limits.
-"""
-
 import json
 import os
 import re

@@ -64,3 +64,17 @@ retrieval strategy?
 "The main risk is LaTeX/math questions where the embedding sees garbage tokens — 
 worth adding a preprocessing step to strip or translate math notation 
 before embedding if you're seeing many of those."
+
+utils.py -> resuable with retriever swapped out.
+      1. files_handler - remove
+      2. Replace HuggingFaceEmbeddings("all-MiniLM-L6-v2") with intfloat/e5-large-v2 
+      with the query: prefix — must match what index_units.py used or 
+      retrieval will be garbage
+      3. Replace Chroma(collection_name="documents") with existing units collection in ./chroma_db
+      4. utils.py uses langchain_community.vectorstores.chroma pointed at ./chroma_langchain_db — 
+      but your existing ChromaDB was built with the raw chromadb client pointed 
+      at ./chroma_db. LangChain's Chroma wrapper can connect to an existing ChromaDB 
+      collection, but the collection name must match exactly (units) and the embedding 
+      function must be identical
+      
+app.py -> core is there, need to build other
