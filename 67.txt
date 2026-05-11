@@ -59,3 +59,8 @@ cohere?
 cross-encoder models in detail.
 chunking startegy? 
 retrieval strategy?
+
+
+"The main risk is LaTeX/math questions where the embedding sees garbage tokens — 
+worth adding a preprocessing step to strip or translate math notation 
+before embedding if you're seeing many of those."
