@@ -36,6 +36,26 @@ but we could just use a sql query which is cheap and no cost
 -> llm on auto with many llm models 
 -> only low confidence questions 
 -> same json append output
-ex : "unit": 2,
+ex : "unit": 2
 
+accuracy is shit 29/50 max -> 48/50
+hybrid search -> keyword search + vector search together => retrieval techniques
+reranker -> done
+chunking startegy -> yt ()
+No evaluation loop -> yt ()
 
+also try splitting ict guides and make it vectors and test if it works bc thats even better context about each unit
+just need to find how we gonna do,
+    q["unit"] = result["metadatas"][0][0]["unit_number"]
+
+then implement 4 above
+
+then the accuracy will be 99% 
+
+https://chatgpt.com/c/69e26bff-e398-83e8-b060-8679a1f8b8c4
+https://medium.com/@naresh.kancharla/rag-evaluation-confidence-score-dfd1bdd01b82
+ragas?
+cohere?
+cross-encoder models in detail.
+chunking startegy? 
+retrieval strategy?
