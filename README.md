@@ -4,6 +4,7 @@ An intelligent past paper practice platform that helps students learn faster by 
 
 It transforms static past papers into an interactive learning system with instant feedback, model answers, and smart question understanding.
 
+Try it out here: https://pastpaper-practice-system.streamlit.app/
 ---
 
 ## 🚀 What it does
@@ -68,11 +69,6 @@ Add your API keys and config:
 ```bash
 streamlit run app.py
 ```
-or 
-
-simply go the URL
-https://pastpaper-practice-system.streamlit.app/
-
 ---
 
 ## 🧠 Required Services
