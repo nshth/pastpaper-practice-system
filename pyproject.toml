@@ -13,4 +13,5 @@ dependencies = [
     "pdf2image>=1.17.0",
     "pypdf2>=3.0.1",
     "sentence-transformers>=5.4.0",
+    "streamlit>=1.57.0",
 ]
