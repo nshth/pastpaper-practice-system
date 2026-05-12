@@ -15,7 +15,7 @@ if not api_key:
     print("MISTRAL_API_KEY not set")
     exit(1)
 
-pdf_path = "data/raw/pastpaper/24-pp-ict-en-part-1.pdf"
+pdf_path = "data/raw/pastpaper/p1/22-pp-ict-en-part-1.pdf"
 try:
     uploaded_pdf = client.files.upload(
         file={"file_name": os.path.basename(pdf_path), "content": open(pdf_path, "rb")},
@@ -43,8 +43,8 @@ for page in ocr_response.pages:
             if "," in img_data:
                 img_data = img_data.split(",")[1]
             image_bytes = base64.b64decode(img_data)
-            os.makedirs("data/extracted/assets/images", exist_ok=True)
-            with open(f"images/{img.id}", "wb") as f:
+            os.makedirs("data/extracted/assets/images/2022", exist_ok=True)
+            with open(f"data/extracted/assets/images/2022/{img.id}", "wb") as f:
                 f.write(image_bytes)
             md = md.replace(f"![{img.id}]({img.id})", f"![{img.id}](images/{img.id})")
     
@@ -79,8 +79,8 @@ for line in lines:
 
         if current_q:
             questions.append({
-                "question_id": f"2024_P1_Q{str(current_q).zfill(2)}",
-                "year": 2024,
+                "question_id": f"2022_P1_Q{str(current_q).zfill(2)}",
+                "year": 2022,
                 "paper": 1,
                 "q_num": current_q,
                 "text": ' '.join(current_text).strip(),
@@ -102,7 +102,7 @@ print(f"Extracted {len(questions)} questions")
 
 os.makedirs("data/extracted/processed", exist_ok=True)
 
-with open("data/extracted/processed/2024_P1_questions.json", "w", encoding="utf-8") as f:
+with open("data/extracted/processed/2022_P1_questions.json", "w", encoding="utf-8") as f:
     json.dump(questions, f, indent=2)
 
 with open("ocr_output_mapped.md", "w", encoding="utf-8") as f:
@@ -110,5 +110,5 @@ with open("ocr_output_mapped.md", "w", encoding="utf-8") as f:
 
 print("Saved: questions, schemes, markdown")
 print("Files created:")
-print(f"  - data/extracted/2024_P1_questions.json ({len(questions)} Q)")
+print(f"  - data/extracted/2022_P1_questions.json ({len(questions)} Q)")
 print("  - ocr_output_mapped.md")

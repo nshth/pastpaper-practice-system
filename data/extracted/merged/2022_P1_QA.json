@@ -4,22 +4,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 1,
-    "text": "Which of the following statements is/are correct? A \u2013 Firmware is a computer program that is usually embedded in the volatile memory of a computer. B \u2013 A printer driver is an example for an application software. C \u2013 Linux is an example for a system software. (1) A only (2) B only (3) C only (4) A and B only (5) B and C only",
+    "text": "Which of the following statements is/are correct? A – Firmware is a computer program that is usually embedded in the volatile memory of a computer. B – A printer driver is an example for an application software. C – Linux is an example for a system software. (1) A only (2) B only (3) C only (4) A and B only (5) B and C only",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       3
-    ],
-    "unit": 5,
-    "unit_confidence": 0.4238,
-    "unit_margin": 0.0082,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      5,
-      11,
-      5
     ]
   },
   {
@@ -27,22 +17,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 2,
-    "text": "Which of the following require(s) real-time processing? A \u2013 generating monthly electricity bills of customers B \u2013 updating the bank account balance of a customer when she/he withdraws money from an ATM C \u2013 updating the stock balance in a store upon successful completion of each transaction (1) A only (2) B only (3) C only (4) A and B only (5) B and C only",
+    "text": "Which of the following require(s) real-time processing? A – generating monthly electricity bills of customers B – updating the bank account balance of a customer when she/he withdraws money from an ATM C – updating the stock balance in a store upon successful completion of each transaction (1) A only (2) B only (3) C only (4) A and B only (5) B and C only",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       5
-    ],
-    "unit": 1,
-    "unit_confidence": 0.4977,
-    "unit_margin": 0.0083,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      1,
-      1,
-      1
     ]
   },
   {
@@ -56,16 +36,6 @@
     "tables": [],
     "answer": [
       4
-    ],
-    "unit": 2,
-    "unit_confidence": 0.5771,
-    "unit_margin": 0.038,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      2,
-      2,
-      5
     ]
   },
   {
@@ -73,22 +43,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 4,
-    "text": "Which of the following gives the correct results of bit-wise AND and bit-wise OR operations between the two binary numbers 01010100\u2082 and 11101001\u2082 respectively? (1) 01000000\u2082, 11111101\u2082 (2) 00000010\u2082, 10111001\u2082 (3) 10111101\u2082, 11001010\u2082 (4) 11000000\u2082, 00101100\u2082 (5) 11111101\u2082, 01010011\u2082",
+    "text": "Which of the following gives the correct results of bit-wise AND and bit-wise OR operations between the two binary numbers 01010100₂ and 11101001₂ respectively? (1) 01000000₂, 11111101₂ (2) 00000010₂, 10111001₂ (3) 10111101₂, 11001010₂ (4) 11000000₂, 00101100₂ (5) 11111101₂, 01010011₂",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 3,
-    "unit_confidence": 0.5656,
-    "unit_margin": 0.0396,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      3,
-      4,
-      3
     ]
   },
   {
@@ -96,22 +56,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 5,
-    "text": "What is the correct binary equivalent of decimal 12.75\u2081\u2080? (1) 1011.01\u2082 (2) 1011.11\u2082 (3) 1100.00\u2082 (4) 1100.11\u2082 (5) 1100.01\u2082",
+    "text": "What is the correct binary equivalent of decimal 12.75₁₀? (1) 1011.01₂ (2) 1011.11₂ (3) 1100.00₂ (4) 1100.11₂ (5) 1100.01₂",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       4
-    ],
-    "unit": 3,
-    "unit_confidence": 0.5489,
-    "unit_margin": 0.0101,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      3,
-      3,
-      6
     ]
   },
   {
@@ -119,22 +69,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 6,
-    "text": "What is the correct 2\u2019s complement binary representation of decimal \u201341\u2081\u2080 using 8-bits? (1) 00101001 (2) 01010110 (3) 10101001 (4) 11010110 (5) 11010111 [See page two --- AL/2022(2023)/20/E-I",
+    "text": "What is the correct 2’s complement binary representation of decimal –41₁₀ using 8-bits? (1) 00101001 (2) 01010110 (3) 10101001 (4) 11010110 (5) 11010111 [See page two --- AL/2022(2023)/20/E-I",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       5
-    ],
-    "unit": 3,
-    "unit_confidence": 0.4467,
-    "unit_margin": 0.0157,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      3,
-      3,
-      3
     ]
   },
   {
@@ -148,16 +88,6 @@
     "tables": [],
     "answer": [
       3
-    ],
-    "unit": 3,
-    "unit_confidence": 0.4223,
-    "unit_margin": 0.0245,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      3,
-      6,
-      9
     ]
   },
   {
@@ -171,16 +101,6 @@
     "tables": [],
     "answer": [
       3
-    ],
-    "unit": 9,
-    "unit_confidence": 0.5196,
-    "unit_margin": 0.0062,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      9,
-      3,
-      9
     ]
   },
   {
@@ -196,16 +116,6 @@
     "tables": [],
     "answer": [
       2
-    ],
-    "unit": 4,
-    "unit_confidence": 0.4413,
-    "unit_margin": 0.0102,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      4,
-      4,
-      4
     ]
   },
   {
@@ -219,16 +129,6 @@
     "tables": [],
     "answer": [
       5
-    ],
-    "unit": 4,
-    "unit_confidence": 0.4255,
-    "unit_margin": 0.0235,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      4,
-      4,
-      3
     ]
   },
   {
@@ -243,18 +143,7 @@
     "answer": [
       2,
       4
-    ],
-    "unit": 4,
-    "unit_confidence": 0.3594,
-    "unit_margin": 0.0115,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      4,
-      4,
-      4
-    ],
-    "llm_model": "llama-3.3-70b-versatile"
+    ]
   },
   {
     "question_id": "2022_P1_Q12",
@@ -267,16 +156,6 @@
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 5,
-    "unit_confidence": 0.6254,
-    "unit_margin": 0.0169,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      5,
-      9,
-      9
     ]
   },
   {
@@ -290,16 +169,6 @@
     "tables": [],
     "answer": [
       4
-    ],
-    "unit": 5,
-    "unit_confidence": 0.551,
-    "unit_margin": 0.0217,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      5,
-      5,
-      5
     ]
   },
   {
@@ -307,22 +176,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 14,
-    "text": "The block size of a disk is 4KB. A portion of its File Allocation Table (FAT) at a particular time is shown below. The portion shown indicates the blocks of the average.py file as well. FAT <table><tr><td>200</td><td>202</td></tr><tr><td>201</td><td>200</td></tr><tr><td>202</td><td>\u22121</td></tr><tr><td>203</td><td>201</td></tr><tr><td>204</td><td>205</td></tr></table> Notes: I. The last block of a file is indicated by \u22121. II. The directory entry of a file contains the block number of the first block of the file. Which of the following gives the directory entry for the average.py file and the disk space allocated for the average.py file respectively? (1) 200, 12KB (2) 200, 16KB (3) 200, 20KB (4) 203, 16KB (5) 203, 20KB",
+    "text": "The block size of a disk is 4KB. A portion of its File Allocation Table (FAT) at a particular time is shown below. The portion shown indicates the blocks of the average.py file as well. FAT <table><tr><td>200</td><td>202</td></tr><tr><td>201</td><td>200</td></tr><tr><td>202</td><td>−1</td></tr><tr><td>203</td><td>201</td></tr><tr><td>204</td><td>205</td></tr></table> Notes: I. The last block of a file is indicated by −1. II. The directory entry of a file contains the block number of the first block of the file. Which of the following gives the directory entry for the average.py file and the disk space allocated for the average.py file respectively? (1) 200, 12KB (2) 200, 16KB (3) 200, 20KB (4) 203, 16KB (5) 203, 20KB",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       4
-    ],
-    "unit": 5,
-    "unit_confidence": 0.5628,
-    "unit_margin": 0.0205,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      5,
-      9,
-      9
     ]
   },
   {
@@ -330,22 +189,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 15,
-    "text": "Which of the following are Transport Layer protocols of the TCP/IP stack? A \u2013 Transmission Control Protocol (TCP) B \u2013 User Datagram Protocol (UDP) C \u2013 File Transfer Protocol (FTP) D \u2013 Internet Protocol (IP) (1) A and B only (2) A and C only (3) B and C only (4) B and D only (5) All A, B, C and D",
+    "text": "Which of the following are Transport Layer protocols of the TCP/IP stack? A – Transmission Control Protocol (TCP) B – User Datagram Protocol (UDP) C – File Transfer Protocol (FTP) D – Internet Protocol (IP) (1) A and B only (2) A and C only (3) B and C only (4) B and D only (5) All A, B, C and D",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 6,
-    "unit_confidence": 0.7273,
-    "unit_margin": 0.0364,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      6
     ]
   },
   {
@@ -353,22 +202,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 16,
-    "text": "Which of the following statements is/are correct about MAC and IPv4 addresses? A \u2013 MAC addresses are 32 bits in length and are used in the network layer. B \u2013 MAC addresses are 48 bits in length and are used in the datalink layer. C \u2013 IPv4 addresses are 32 bits in length and are used in the network layer. (1) A only (2) B only (3) C only (4) A and C only (5) B and C only",
+    "text": "Which of the following statements is/are correct about MAC and IPv4 addresses? A – MAC addresses are 32 bits in length and are used in the network layer. B – MAC addresses are 48 bits in length and are used in the datalink layer. C – IPv4 addresses are 32 bits in length and are used in the network layer. (1) A only (2) B only (3) C only (4) A and C only (5) B and C only",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       5
-    ],
-    "unit": 6,
-    "unit_confidence": 0.4677,
-    "unit_margin": 0.0237,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      6
     ]
   },
   {
@@ -376,22 +215,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 17,
-    "text": "Which of the following is/are correct regarding a firewall? A \u2013 It can monitor and filter outgoing traffic from an internal network. B \u2013 It protects a network from unauthorized accesses. C \u2013 It can be a hardware, a software or a combination of both. (1) A only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C",
+    "text": "Which of the following is/are correct regarding a firewall? A – It can monitor and filter outgoing traffic from an internal network. B – It protects a network from unauthorized accesses. C – It can be a hardware, a software or a combination of both. (1) A only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       5
-    ],
-    "unit": 6,
-    "unit_confidence": 0.6531,
-    "unit_margin": 0.0194,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      9,
-      1
     ]
   },
   {
@@ -405,16 +234,6 @@
     "tables": [],
     "answer": [
       3
-    ],
-    "unit": 6,
-    "unit_confidence": 0.5232,
-    "unit_margin": 0.0347,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      9
     ]
   },
   {
@@ -428,16 +247,6 @@
     "tables": [],
     "answer": [
       4
-    ],
-    "unit": 6,
-    "unit_confidence": 0.622,
-    "unit_margin": 0.0372,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      6
     ]
   },
   {
@@ -445,22 +254,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 20,
-    "text": "Consider the seven layer OSI reference model and match each of the given layers labeled from P to S to the corresponding responsibility of it labeled from 1 to 4. <table><tr><th>Layer</th><th>Responsibility</th></tr><tr><td>P \u2013 Application layer</td><td>1 \u2013 binary transmission over the communication medium</td></tr><tr><td>Q \u2013 Physical layer</td><td>2 \u2013 route determination</td></tr><tr><td>R \u2013 Transport layer</td><td>3 \u2013 user services that include file transfer, remote access etc.</td></tr><tr><td>S \u2013 Network layer</td><td>4 \u2013 data delivery from process to process</td></tr></table> (1) P \u2013 1, Q \u2013 3, R \u2013 2, S \u2013 4 (2) P \u2013 2, Q \u2013 4, R \u2013 3, S \u2013 1 (3) P \u2013 3, Q \u2013 1, R \u2013 2, S \u2013 4 (4) P \u2013 3, Q \u2013 1, R \u2013 4, S \u2013 2 (5) P \u2013 4, Q \u2013 2, R \u2013 1, S \u2013 3",
+    "text": "Consider the seven layer OSI reference model and match each of the given layers labeled from P to S to the corresponding responsibility of it labeled from 1 to 4. <table><tr><th>Layer</th><th>Responsibility</th></tr><tr><td>P – Application layer</td><td>1 – binary transmission over the communication medium</td></tr><tr><td>Q – Physical layer</td><td>2 – route determination</td></tr><tr><td>R – Transport layer</td><td>3 – user services that include file transfer, remote access etc.</td></tr><tr><td>S – Network layer</td><td>4 – data delivery from process to process</td></tr></table> (1) P – 1, Q – 3, R – 2, S – 4 (2) P – 2, Q – 4, R – 3, S – 1 (3) P – 3, Q – 1, R – 2, S – 4 (4) P – 3, Q – 1, R – 4, S – 2 (5) P – 4, Q – 2, R – 1, S – 3",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       4
-    ],
-    "unit": 6,
-    "unit_confidence": 0.5352,
-    "unit_margin": 0.0251,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      6
     ]
   },
   {
@@ -468,22 +267,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 21,
-    "text": "Which of the following statements is/are correct? A \u2013 A digital signature ensures the authenticity of a message. B \u2013 In asymmetric key encryption, different keys are used for encryption and decryption. C \u2013 The encryption process transforms plaintext to ciphertext. (1) A only (2) B only (3) C only (4) A and B only (5) All A, B and C",
+    "text": "Which of the following statements is/are correct? A – A digital signature ensures the authenticity of a message. B – In asymmetric key encryption, different keys are used for encryption and decryption. C – The encryption process transforms plaintext to ciphertext. (1) A only (2) B only (3) C only (4) A and B only (5) All A, B and C",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       5
-    ],
-    "unit": 6,
-    "unit_confidence": 0.6522,
-    "unit_margin": 0.0656,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      9,
-      3
     ]
   },
   {
@@ -491,22 +280,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 22,
-    "text": "Match each of the given data communication protocols labelled from P to T to the corresponding descriptions labelled from 1 to 5. <table><tr><th>Protocol</th><th>Description</th></tr><tr><td>P \u2013 Hyper Text Transfer Protocol (HTTP)</td><td>1 \u2013 provides directory lookup service for given web addresses and URLs</td></tr><tr><td>Q \u2013 Transmission Control Protocol (TCP)</td><td>2 \u2013 provides a very reliable data transfer service</td></tr><tr><td>R \u2013 Domain Name System (DNS) Protocol</td><td>3 \u2013 used in the world wide web</td></tr><tr><td>S \u2013 Internet Protocol (IP)</td><td>4 \u2013 provides a connection-less transport service</td></tr><tr><td>T \u2013 User Datagram Protocol (UDP)</td><td>5 \u2013 handles unique addressing of hosts in the Internet</td></tr></table> (1) P \u2013 2, Q \u2013 4, R \u2013 1, S \u2013 5, T \u2013 3 (2) P \u2013 2, Q \u2013 5, R \u2013 4, S \u2013 1, T \u2013 3 (3) P \u2013 3, Q \u2013 2, R \u2013 1, S \u2013 5, T \u2013 4 (4) P \u2013 3, Q \u2013 4, R \u2013 5, S \u2013 1, T \u2013 2 (5) P \u2013 4, Q \u2013 2, R \u2013 3, S \u2013 1, T \u2013 5",
+    "text": "Match each of the given data communication protocols labelled from P to T to the corresponding descriptions labelled from 1 to 5. <table><tr><th>Protocol</th><th>Description</th></tr><tr><td>P – Hyper Text Transfer Protocol (HTTP)</td><td>1 – provides directory lookup service for given web addresses and URLs</td></tr><tr><td>Q – Transmission Control Protocol (TCP)</td><td>2 – provides a very reliable data transfer service</td></tr><tr><td>R – Domain Name System (DNS) Protocol</td><td>3 – used in the world wide web</td></tr><tr><td>S – Internet Protocol (IP)</td><td>4 – provides a connection-less transport service</td></tr><tr><td>T – User Datagram Protocol (UDP)</td><td>5 – handles unique addressing of hosts in the Internet</td></tr></table> (1) P – 2, Q – 4, R – 1, S – 5, T – 3 (2) P – 2, Q – 5, R – 4, S – 1, T – 3 (3) P – 3, Q – 2, R – 1, S – 5, T – 4 (4) P – 3, Q – 4, R – 5, S – 1, T – 2 (5) P – 4, Q – 2, R – 3, S – 1, T – 5",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       3
-    ],
-    "unit": 6,
-    "unit_confidence": 0.5508,
-    "unit_margin": 0.0229,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      6
     ]
   },
   {
@@ -524,40 +303,19 @@
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 7,
-    "unit_confidence": 0.3535,
-    "unit_margin": 0.0,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      5,
-      7,
-      9
-    ],
-    "llm_model": "meta-llama/llama-4-scout-17b-16e-instruct"
+    ]
   },
   {
     "question_id": "2022_P1_Q24",
     "year": 2022,
     "paper": 1,
     "q_num": 24,
-    "text": "Consider the information system types in List A and the descriptive examples in List B. Identify the most suitable matching between the items in lists A and B. <table><tr><th>List A</th><th>List B</th></tr><tr><td>A1 - Decision Support System (DSS)</td><td>B1 - a system that allows to update, create, and manage the details in a news website</td></tr><tr><td>A2 - Content Management System (CMS)</td><td>B2 - a system that handles electronic fund transfers</td></tr><tr><td>A3 - Transaction Processing System (TPS)</td><td>B3 - a system that combines data and analytical tools for sales forecasting based on historical data</td></tr></table> (1) A1 \u2013 B1, A2 \u2013 B2, A3 \u2013 B3 (2) A1 \u2013 B2, A2 \u2013 B1, A3 \u2013 B3 (3) A1 \u2013 B2, A2 \u2013 B3, A3 \u2013 B1 (4) A1 \u2013 B3, A2 \u2013 B1, A3 \u2013 B2 (5) A1 \u2013 B3, A2 \u2013 B2, A3 \u2013 B1",
+    "text": "Consider the information system types in List A and the descriptive examples in List B. Identify the most suitable matching between the items in lists A and B. <table><tr><th>List A</th><th>List B</th></tr><tr><td>A1 - Decision Support System (DSS)</td><td>B1 - a system that allows to update, create, and manage the details in a news website</td></tr><tr><td>A2 - Content Management System (CMS)</td><td>B2 - a system that handles electronic fund transfers</td></tr><tr><td>A3 - Transaction Processing System (TPS)</td><td>B3 - a system that combines data and analytical tools for sales forecasting based on historical data</td></tr></table> (1) A1 – B1, A2 – B2, A3 – B3 (2) A1 – B2, A2 – B1, A3 – B3 (3) A1 – B2, A2 – B3, A3 – B1 (4) A1 – B3, A2 – B1, A3 – B2 (5) A1 – B3, A2 – B2, A3 – B1",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       4
-    ],
-    "unit": 7,
-    "unit_confidence": 0.5168,
-    "unit_margin": 0.053,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      1,
-      7
     ]
   },
   {
@@ -565,22 +323,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 25,
-    "text": "Which of the following statements is/are correct regarding System Development Life Cycle (SDLC) models? A \u2013 In the agile model, small portions of systematically developed working software are delivered to the client frequently. B \u2013 Late changes in the requirements can be easily accommodated in the waterfall model. C \u2013 Prototyping model can be practiced without client interactions. (1) A only (2) B only (3) C only (4) A and B only (5) A and C only",
+    "text": "Which of the following statements is/are correct regarding System Development Life Cycle (SDLC) models? A – In the agile model, small portions of systematically developed working software are delivered to the client frequently. B – Late changes in the requirements can be easily accommodated in the waterfall model. C – Prototyping model can be practiced without client interactions. (1) A only (2) B only (3) C only (4) A and B only (5) A and C only",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 7,
-    "unit_confidence": 0.7173,
-    "unit_margin": 0.0547,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      9,
-      14
     ]
   },
   {
@@ -594,16 +342,6 @@
     "tables": [],
     "answer": [
       2
-    ],
-    "unit": 7,
-    "unit_confidence": 0.5932,
-    "unit_margin": 0.0106,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      7,
-      7
     ]
   },
   {
@@ -611,7 +349,7 @@
     "year": 2022,
     "paper": 1,
     "q_num": 27,
-    "text": "Which of the following Data Flow Diagrams (DFDs) is correct with respect to the rules of data flow modelling? (Note: A \u2013 an external entity, B \u2013 a process, C \u2013 a data store) (1) ![img-4.jpeg](images/img-4.jpeg) (2) ![img-5.jpeg](images/img-5.jpeg) (3) ![img-6.jpeg](images/img-6.jpeg) (4) ![img-7.jpeg](images/img-7.jpeg) (5) ![img-8.jpeg](images/img-8.jpeg)",
+    "text": "Which of the following Data Flow Diagrams (DFDs) is correct with respect to the rules of data flow modelling? (Note: A – an external entity, B – a process, C – a data store) (1) ![img-4.jpeg](images/img-4.jpeg) (2) ![img-5.jpeg](images/img-5.jpeg) (3) ![img-6.jpeg](images/img-6.jpeg) (4) ![img-7.jpeg](images/img-7.jpeg) (5) ![img-8.jpeg](images/img-8.jpeg)",
     "marks": 2,
     "images": [
       "images/img-4.jpeg",
@@ -623,16 +361,6 @@
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 7,
-    "unit_confidence": 0.4494,
-    "unit_margin": 0.0063,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      7,
-      9
     ]
   },
   {
@@ -646,16 +374,6 @@
     "tables": [],
     "answer": [
       2
-    ],
-    "unit": 7,
-    "unit_confidence": 0.431,
-    "unit_margin": 0.0053,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      9,
-      9
     ]
   },
   {
@@ -671,16 +389,6 @@
     "tables": [],
     "answer": [
       5
-    ],
-    "unit": 8,
-    "unit_confidence": 0.4134,
-    "unit_margin": 0.0022,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      8,
-      8,
-      8
     ]
   },
   {
@@ -694,16 +402,6 @@
     "tables": [],
     "answer": [
       3
-    ],
-    "unit": 8,
-    "unit_confidence": 0.47,
-    "unit_margin": 0.0134,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      8,
-      8,
-      8
     ]
   },
   {
@@ -717,16 +415,6 @@
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 7,
-    "unit_confidence": 0.6867,
-    "unit_margin": 0.0135,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      9,
-      9
     ]
   },
   {
@@ -740,40 +428,19 @@
     "tables": [],
     "answer": [
       3
-    ],
-    "unit": 8,
-    "unit_confidence": 0.0837,
-    "unit_margin": 0.0031,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      8,
-      4,
-      8
-    ],
-    "llm_model": "llama-3.1-8b-instant"
+    ]
   },
   {
     "question_id": "2022_P1_Q33",
     "year": 2022,
     "paper": 1,
     "q_num": 33,
-    "text": "Which of the following statements is/are correct regarding the normalization concept? A \u2013 In first normal form, atomic attributes are removed from a relation. B \u2013 In second normal form, partial dependency of attributes on the primary key are removed. C \u2013 In third normal form, transitive dependency of attributes are removed. (1) B only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C",
+    "text": "Which of the following statements is/are correct regarding the normalization concept? A – In first normal form, atomic attributes are removed from a relation. B – In second normal form, partial dependency of attributes on the primary key are removed. C – In third normal form, transitive dependency of attributes are removed. (1) B only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       4
-    ],
-    "unit": 8,
-    "unit_confidence": 0.6778,
-    "unit_margin": 0.0183,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      8,
-      7,
-      8
     ]
   },
   {
@@ -781,22 +448,12 @@
     "year": 2022,
     "paper": 1,
     "q_num": 34,
-    "text": "Which of the following statements is/are correct regarding Entity Relationship (ER) modelling? A \u2013 A weak entity is dependent on another entity. B \u2013 A derived attribute is represented as an attribute in a relation. C \u2013 An entity can contain a multi-value attribute and a composite attribute at the same time. (1) A only (2) B only (3) A and C only (4) B and C only (5) All A, B and C [See page nine --- AL/2022(2023)/20/E-I",
+    "text": "Which of the following statements is/are correct regarding Entity Relationship (ER) modelling? A – A weak entity is dependent on another entity. B – A derived attribute is represented as an attribute in a relation. C – An entity can contain a multi-value attribute and a composite attribute at the same time. (1) A only (2) B only (3) A and C only (4) B and C only (5) All A, B and C [See page nine --- AL/2022(2023)/20/E-I",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       3
-    ],
-    "unit": 8,
-    "unit_confidence": 0.4113,
-    "unit_margin": 0.004,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      8,
-      8,
-      7
     ]
   },
   {
@@ -812,25 +469,14 @@
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 8,
-    "unit_confidence": 0.386,
-    "unit_margin": 0.0057,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      8,
-      8,
-      8
-    ],
-    "llm_model": "llama-3.3-70b-versatile"
+    ]
   },
   {
     "question_id": "2022_P1_Q36",
     "year": 2022,
     "paper": 1,
     "q_num": 36,
-    "text": "Which of the following statements is/are correct about the algorithm expressed by the given flowchart? A \u2013 An input is taken from the user only once. B \u2013 The output of the algorithm is always 9. C \u2013 The algorithm outputs the summation of all the numbers entered. (1) A only (2) B only (3) C only (4) A and B only (5) B and C only ![img-11.jpeg](images/img-11.jpeg) /See page ten --- AL/2022(2023)/20/E-I -10-",
+    "text": "Which of the following statements is/are correct about the algorithm expressed by the given flowchart? A – An input is taken from the user only once. B – The output of the algorithm is always 9. C – The algorithm outputs the summation of all the numbers entered. (1) A only (2) B only (3) C only (4) A and B only (5) B and C only ![img-11.jpeg](images/img-11.jpeg) /See page ten --- AL/2022(2023)/20/E-I -10-",
     "marks": 2,
     "images": [
       "images/img-11.jpeg"
@@ -838,16 +484,6 @@
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 9,
-    "unit_confidence": 0.5071,
-    "unit_margin": 0.0049,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      9,
-      9,
-      9
     ]
   },
   {
@@ -861,18 +497,7 @@
     "tables": [],
     "answer": [
       2
-    ],
-    "unit": 9,
-    "unit_confidence": 0.3864,
-    "unit_margin": 0.0006,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      9,
-      9,
-      9
-    ],
-    "llm_model": "meta-llama/llama-4-scout-17b-16e-instruct"
+    ]
   },
   {
     "question_id": "2022_P1_Q38",
@@ -885,18 +510,7 @@
     "tables": [],
     "answer": [
       2
-    ],
-    "unit": 9,
-    "unit_confidence": 0.2319,
-    "unit_margin": 0.0053,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      9,
-      9,
-      9
-    ],
-    "llm_model": "llama-3.1-8b-instant"
+    ]
   },
   {
     "question_id": "2022_P1_Q39",
@@ -909,16 +523,6 @@
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 9,
-    "unit_confidence": 0.4517,
-    "unit_margin": 0.0003,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      9,
-      9,
-      9
     ]
   },
   {
@@ -932,16 +536,6 @@
     "tables": [],
     "answer": [
       3
-    ],
-    "unit": 9,
-    "unit_confidence": 0.5876,
-    "unit_margin": 0.006,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      9,
-      9,
-      9
     ]
   },
   {
@@ -955,16 +549,6 @@
     "tables": [],
     "answer": [
       1
-    ],
-    "unit": 9,
-    "unit_confidence": 0.4856,
-    "unit_margin": 0.0017,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      9,
-      9,
-      9
     ]
   },
   {
@@ -972,46 +556,25 @@
     "year": 2022,
     "paper": 1,
     "q_num": 42,
-    "text": "Which of the following is/are correct regarding Python functions? A \u2013 A Python function can return a data structure that contains multiple values. B \u2013 A Python function can be used without passing any parameters to it. C \u2013 Parameters can be passed to a python function by value or by reference. (1) B only (2) C only (3) A and C only (4) B and C only (5) All A, B and C",
+    "text": "Which of the following is/are correct regarding Python functions? A – A Python function can return a data structure that contains multiple values. B – A Python function can be used without passing any parameters to it. C – Parameters can be passed to a python function by value or by reference. (1) B only (2) C only (3) A and C only (4) B and C only (5) All A, B and C",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       5
-    ],
-    "unit": 9,
-    "unit_confidence": 0.2168,
-    "unit_margin": 0.0004,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      9,
-      9,
-      9
-    ],
-    "llm_model": "llama-3.3-70b-versatile"
+    ]
   },
   {
     "question_id": "2022_P1_Q43",
     "year": 2022,
     "paper": 1,
     "q_num": 43,
-    "text": "Which of the following HTML tags can be used to change the appearance of a word in a text? (1) <i>, <em>, <li>, <br> (2) <b>, <i>, <em>, <h1> (3) <b>, <em>, <sup>, <li> (4) <i>, <u>, <br>, <sup>, <sup>, <sup> (5) <u>, <i>, <i>, <ol>, <b> (44. What would be the output of the following HTML code segment? <dl> <dt> Vegetable </dt> <dd> Potato </dd> <dt> Fruit </dt> <dd> Orange </dd> </dd> </dl> (1) \u2022 Vegetable \u2022 Potato \u2022 Fruit \u2022 Orange (2) Vegetable Potato Fruit Orange (3) \u2022 Vegetable Potato \u2022 Fruit Orange (4) 1. Vegetable Potato",
+    "text": "Which of the following HTML tags can be used to change the appearance of a word in a text? (1) <i>, <em>, <li>, <br> (2) <b>, <i>, <em>, <h1> (3) <b>, <em>, <sup>, <li> (4) <i>, <u>, <br>, <sup>, <sup>, <sup> (5) <u>, <i>, <i>, <ol>, <b> (44. What would be the output of the following HTML code segment? <dl> <dt> Vegetable </dt> <dd> Potato </dd> <dt> Fruit </dt> <dd> Orange </dd> </dd> </dl> (1) • Vegetable • Potato • Fruit • Orange (2) Vegetable Potato Fruit Orange (3) • Vegetable Potato • Fruit Orange (4) 1. Vegetable Potato",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       2
-    ],
-    "unit": 10,
-    "unit_confidence": 0.4397,
-    "unit_margin": 0.0187,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      10,
-      10,
-      10
     ]
   },
   {
@@ -1019,46 +582,25 @@
     "year": 2022,
     "paper": 1,
     "q_num": 2,
-    "text": "Fruit Orange (5) \u2022 Vegetable - Potato \u2022 Fruit - Orange",
+    "text": "Fruit Orange (5) • Vegetable - Potato • Fruit - Orange",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       5
-    ],
-    "unit": 3,
-    "unit_confidence": 0.3717,
-    "unit_margin": 0.0011,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      11,
-      12,
-      3
-    ],
-    "llm_model": "meta-llama/llama-4-scout-17b-16e-instruct"
+    ]
   },
   {
     "question_id": "2022_P1_Q45",
     "year": 2022,
     "paper": 1,
     "q_num": 45,
-    "text": "Which of the following statements is/are correct regarding HTML and CSS? A \u2013 CSS can be used to describe how HTML elements are to be displayed on screen. B \u2013 External CSS can be used to define the style for many HTML pages. C \u2013 Inline CSS can be used to apply a style to a single HTML element. (1) A only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C",
+    "text": "Which of the following statements is/are correct regarding HTML and CSS? A – CSS can be used to describe how HTML elements are to be displayed on screen. B – External CSS can be used to define the style for many HTML pages. C – Inline CSS can be used to apply a style to a single HTML element. (1) A only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C",
     "marks": 2,
     "images": [],
     "tables": [],
     "answer": [
       5
-    ],
-    "unit": 10,
-    "unit_confidence": 0.5643,
-    "unit_margin": 0.0252,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      10,
-      10,
-      10
     ]
   },
   {
@@ -1072,16 +614,6 @@
     "tables": [],
     "answer": [
       2
-    ],
-    "unit": 10,
-    "unit_confidence": 0.6753,
-    "unit_margin": 0.0045,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      10,
-      9,
-      1
     ]
   }
 ]

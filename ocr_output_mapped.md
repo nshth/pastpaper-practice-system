@@ -1,675 +1,700 @@
-012138
+AL/2022(2023)/20/E-I
 
-AL/2024/20/E-I
+```html
 
+<table><tr><td>ಒಟ್ಟು @ ಕೈಪಿಡಿ ನಗರಗಳು / ಬುದ್ಧಿವಂತ ಬುದ್ಧಿವಂತರು/ಒಂದು / All Rights Reserved ]</td></tr><tr><td>ಒಂದು ವಿಷಯ ಆಧಾರಿತ ಕಾರ್ಯಕ್ರಮಗಳು<br/>Bಅಂಗೀಕಾರದ ಬಗ್ಗೆ ಮಾಹಿತಿ ತೋರಿಸಬೇಕಾದ<br/>Department of Examinations,Sri Lanka</td></tr><tr><td>ಅಧಿಕಾರಿಗಳು ಮತ್ತು ಅಧಿಕಾರಿಗಳು<br/>2022(2023)<br/>ಅಧಿಕಾರಿ ವಿಭಾಗಗಳು<br/>2022(2023)<br/>ಅಧಿಕಾರಿ ವಿಭಾಗಗಳು<br/>2022(2023)</td></tr><tr><td>ಅಧಿಕಾರಿ ಅಧಿಕಾರಿಗಳು<br/>2022(2023)<br/>ಅಧಿಕಾರಿ ವಿಭಾಗಗಳು<br/>2022(2023)</td></tr><tr><td>Infor<br/>2022(2023)</td></tr><tr><td>ಅಧಿಕಾರಿ ಅಧಿಕಾರಿಗಳು<br/>2022(2023)</td></tr><tr><td>ಅಧಿಕಾರಿ ಅಧಿಕಾರಿಗಳು<br/>2022(2023)</td></tr><tr><td>ಅಧಿಕಾರಿ ಅಧಿಕಾರಿಗಳು<br/>2022(2023)</td></tr></table>
 
-<table><tr><td>Department of Examinations, Sri Lanka</td></tr><tr><td>சுயேச்சை செய்தி துறை, தேசிய பத்திரி (உயர் தர)ப் பரீட்சை, 2024<br/>General Certificate of Education (Adv. Level) Examination, 2024</td></tr><tr><td>Institution: 20 E I<br/>Two hours</td></tr></table>
+```
 
+## Instructions:
 
-# Instructions:
+- Answer all the questions.
+- Write your Index Number in the space provided in the answer sheet.
+- Instructions are also given on the back of the answer sheet. Follow those carefully.
+- In each of the questions 1 to 50, pick one of the alternatives from (1), (2), (3), (4), (5) which is correct or most appropriate and mark your response on the answer sheet with a cross (x) in accordance with the instructions given on the back of the answer sheet.
+- Use of calculators is not allowed.
 
-* Answer all the questions.
-* Write your Index Number in the space provided in the answer sheet.
-* Instructions are also given on the back of the answer sheet. Follow those carefully.
-* In each of the questions 1 to 50, pick one of the alternatives from (1), (2), (3), (4), (5) which is correct or most appropriate and mark your response on the answer sheet with a cross (×) in accordance with the instructions given on the back of the answer sheet.
-* Use of calculators is not allowed.
+1. Which of the following statements is/are correct?
 
-1. Consider the following data:
+A – Firmware is a computer program that is usually embedded in the volatile memory of a computer.
 
-A - temperature values given by a sensor
-B - creator's name and the date of creation of a file saved in a computer
-C - collection of posts and responses shared on a social media platform
+B – A printer driver is an example for an application software.
 
-Which of the following correctly categorizes the above data?
-
-(1) A - big data,
-B - continuous data,
-C - metadata (data about data)
-(2) A - continuous data,
-B - big data,
-C - metadata
-(3) A - continuous data,
-B - metadata,
-C - big data
-(4) A - metadata,
-B - big data,
-C - continuous data
-(5) A - metadata,
-B - continuous data,
-C - big data
-
-2. Which of the following are good examples for batch processing?
-
-A - a system that outputs the presently vacant vehicle parking space closest to a user
-B - a system that automatically backs up the files in a computer at the end of each day
-C - a system that sorts the customer orders received during a day according to value
+C – Linux is an example for a system software.
 
 (1) A only
-(2) A and B only
-(3) A and C only
-(4) B and C only
-(5) All A, B and C
+(2) B only
+(3) C only
+(4) A and B only
+(5) B and C only
 
-3. Select the answer containing the correct replacements for  $\mathbb{A}$  and  $\mathbb{B}$  in the following paragraph:
+2. Which of the following require(s) real-time processing?
 
-Although  $\mathbb{A}$  is very old, it still plays a central role in the daily operations of the world's largest corporations. In addition to its power, the other main reason for its popularity is its  $\mathbb{B}$ .
+A – generating monthly electricity bills of customers
+B – updating the bank account balance of a customer when she/he withdraws money from an ATM
+C – updating the stock balance in a store upon successful completion of each transaction
 
-(1) A - cloud computing
-B - non-reliance on the Internet
-(2) A - cloud computing
-B - non-reliance on service providers
-(3) A - the main frame computer
-B - low cost
-(4) A - the main frame computer
-B - reliability
-(5) A - the main frame computer
-B - small size
+(1) A only
+(2) B only
+(3) C only
+(4) A and B only
+(5) B and C only
 
-4. A village of houses constructed mainly with the aid of a special equipment is nearing completion in the United States of America. This equipment has been used to construct the walls of the houses with the foundations and the roofs constructed in the traditional way. This equipment reduces the number of workers required for the construction process and has made the process faster and cheaper with minimized construction waste. What could be this special equipment?
+3. Which of the following lists a computer memory hierarchy in the descending order of access speed?
 
-(1) a digitizer
-(2) a large 3D printer
-(3) a plotter
-(4) a pointing device
-(5) a joystick
+(1) hard disk, registers, L2 cache, L1 cache, main memory
+(2) main memory, L1 cache, registers, L2 cache, hard disk
+(3) registers, main memory, hard disk, L1 cache, L2 cache
+(4) registers, L1 cache, L2 cache, main memory, hard disk
+(5) L1 cache, L2 cache, registers, main memory, hard disk
+
+4. Which of the following gives the correct results of bit-wise AND and bit-wise OR operations between the two binary numbers 01010100₂ and 11101001₂ respectively?
+
+(1) 01000000₂, 11111101₂
+(2) 00000010₂, 10111001₂
+(3) 10111101₂, 11001010₂
+(4) 11000000₂, 00101100₂
+(5) 11111101₂, 01010011₂
+
+5. What is the correct binary equivalent of decimal 12.75₁₀?
+
+(1) 1011.01₂
+(2) 1011.11₂
+(3) 1100.00₂
+(4) 1100.11₂
+(5) 1100.01₂
+
+6. What is the correct 2’s complement binary representation of decimal –41₁₀ using 8-bits?
+
+(1) 00101001
+(2) 01010110
+(3) 10101001
+(4) 11010110
+(5) 11010111
 
 [See page two
 
 ---
 
-AL/2024/20/E-I
-- 2 -
+AL/2022(2023)/20/E-I
 
-5. The figure below shows some components and connections on a computer motherboard.
+7. The address of an instruction was shown as 10f9 in hexadecimal. What is that address in decimal?
+(1) 25
+(2) 1249
+(3) 4345
+(4) 10159
+(5) 16249
 
-Power supply
+8. A particular command can be used to output a text file in its binary format.
+Assume a file contains the following text:
+0 Waste!
+Referring the Important notes (i) and (ii) given below, select the correct output that will result when the said command is run on that file.
+(1) 00110000 00100000 01010111 01100001 01110011 01110100 01100101 00001010
+(2) 00110000 01010111 01100001 01110011 01110100 01100101 00100001 00001010
+(3) 00110000 00100000 01010111 01100001 01110011 01110100 01100101 00100001 00001010
+(4) 00110000 00100000 01110111 01100001 01110011 01110100 01100101 00100001 00001010
+(5) 00110000 00100000 01010111 01100001 01110011 01110100 01100101 00100000 00001010
+
+**Important notes:**
+(i) The file ends with a LINE FEED character.
+(ii) Some selected rows from the 7-bit ASCII table are given below:
+
+
+<table><tr><th>Character</th><th>Binary</th></tr><tr><td>(LINE FEED)</td><td>0001010</td></tr><tr><td>(SPACE)</td><td>0100000</td></tr><tr><td>!</td><td>0100001</td></tr><tr><td>0</td><td>0110000</td></tr><tr><td>W</td><td>1010111</td></tr></table>
+
+
+<table><tr><th>Character</th><th>Binary</th></tr><tr><td>a</td><td>1100001</td></tr><tr><td>e</td><td>1100101</td></tr><tr><td>s</td><td>1110011</td></tr><tr><td>t</td><td>1110100</td></tr><tr><td>w</td><td>1110111</td></tr></table>
+
+
+9. Consider the following logic circuit:
 
 ![img-0.jpeg](images/img-0.jpeg)
 
-The labels A–E indicate the following:
+When $B = I$, what would definitely be the output at Q?
+(1) A
+(2) $\bar{A}$
+(3) $B$
+(4) $\bar{B}$
+(5) 0
 
-A – hard disk
-B – ROM BIOS
-C – connector for audio port
-D – connector for network port
-E – connector for USB port
-
-What are indicated by the labels X, Y and Z respectively?
-
-
-<table><tr><td>(1)</td><td>X – connector for video port</td><td>Y – CPU</td><td>Z – memory</td></tr><tr><td>(2)</td><td>X – connector for video port</td><td>Y – memory</td><td>Z – CPU</td></tr><tr><td>(3)</td><td>X – CPU</td><td>Y – memory</td><td>Z – connector for video port</td></tr><tr><td>(4)</td><td>X – CPU</td><td>Y – connector for video port</td><td>Z – memory</td></tr><tr><td>(5)</td><td>X – memory</td><td>Y – connector for video port</td><td>Z – CPU</td></tr></table>
-
-
-6. A person notes that a desktop computer was booting very fast from the hard disk after the computer was repaired. Which of the following would have been done during the repair?
-
-(1) decreasing RAM and reinstalling the operating system
-(2) formatting the hard disk only
-(3) installing a new CD drive only
-(4) replacing the small fan inside the computer only
-(5) replacing the hard disk with a Solid-state Drive (SSD) and reinstalling the operating system
-
-7. What is the correct binary equivalent of decimal $14.25_{10}$?
-
-(1) 1001.10
-(2) 1010.11
-(3) 1011.01
-(4) 1110.01
-(5) 1111.10
-
-8. What is the correct decimal equivalent of octal $120_{8}$?
-
-(1) 10
-(2) 17
-(3) 80
-(4) 136
-(5) 640
-
-9. Which of the following are correct?
-
-I : EB7_{16} = 1110 1011 0111_{2}
-II : 84_{10} = 1010100_{2}
-III : 753_{8} = 1001011_{2}
-
-(1) I only
-(2) I and II only
-(3) I and III only
-(4) II and III only
-(5) All I, II and III
+10. Simplified Boolean expressions help to obtain simpler circuits.
+Which of the following is a simplified form of $X + \bar{X}Y$?
+(1) $X$
+(2) $Y$
+(3) $XY$
+(4) $\bar{X}Y$
+(5) $X + Y$
 
 [See page three
-0001097
-Past Papers Wiki 2018
 
 ---
 
-AL/2024/20/E-I
+AL/2022(2023)/20/E-I
 
-10. The second and third rows of the following table contain two English words and their binary representations according to the ASCII code. The binary representation of No! is kept blank.
-
-
-<table><tr><th>Word</th><th>Binary representation</th></tr><tr><td>no</td><td>1101110 1101111</td></tr><tr><td>N!</td><td>1001110 0100001</td></tr><tr><td>No!</td><td></td></tr></table>
+11. Consider the following truth table:
 
 
-What is the correct replacement for the blank?
+<table><tr><td>A</td><td>B</td><td>C</td><td>Z</td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>1</td><td>0</td></tr></table>
 
-(1) 0100001 1001110 1101111
-(2) 1001110 0100001 1101111
-(3) 1001110 1101111 0100001
-(4) 1101110 0100001 1101111
-(5) 1101110 1101111 0100001
 
-11.  $11001_{2} + 10001_{2} =$
+What is the correct Karnaugh map for the above truth table?
 
-(1)  $101010_{2}$
+(1)
 
-(2)  $101011_{2}$
 
-(3)  $101100_{2}$
+<table><tr><td>BC
+A</td><td>00</td><td>01</td><td>10</td><td>11</td></tr><tr><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td></tr></table>
 
-(4)  $111001_{2}$
 
-(5)  $111010_{2}$
+(2)
 
-12. Which of the following expresses the output  $(F)$  of the given circuit?
 
-![img-1.jpeg](images/img-1.jpeg)
+<table><tr><td>BC
+A</td><td>00</td><td>01</td><td>11</td><td>10</td></tr><tr><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td></tr></table>
 
-(1)  $(X + \overline{Y})Z$
 
-(2)  $\overline{(X + \overline{Y})} + Z$
+(3)
 
-(3)  $\overline{(X + \overline{Y})} Z$
 
-(4)  $X\overline{Y} + Z$
+<table><tr><td>BC
+A</td><td>00</td><td>10</td><td>01</td><td>11</td></tr><tr><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td></tr></table>
 
-(5)  $\overline{(X\overline{Y})} + Z$
 
-13. Applying Double complement and De Morgan's laws to  $\overline{x} + yz$  results in
+(4)
 
-(1)  $xy + \overline{z}$
 
-(2)  $x\overline{y} + z$
+<table><tr><td>BC
+A</td><td>00</td><td>10</td><td>11</td><td>01</td></tr><tr><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td></tr></table>
 
-(3)  $\overline{x}\overline{y} z$
 
-(4)  $\overline{x(yz)}$
+(5)
 
-(5)  $\overline{x}\overline{y} + yz$
 
-14. What is the most simple Boolean expression that can be obtained through the given Karnaugh map?
+<table><tr><td>BC
+A</td><td>00</td><td>11</td><td>10</td><td>01</td></tr><tr><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td></tr></table>
 
-![img-2.jpeg](images/img-2.jpeg)
 
-(1)  $y$
+12. A program in execution in a computer is called a process. Such a process transits between several states during its lifetime. Which of the following correctly represents a possible state transition sequence of a process?
 
-(2)  $xz$
+(1) New  $\longrightarrow$  Ready  $\longrightarrow$  Running  $\longrightarrow$  Waiting  $\longrightarrow$  Ready  $\longrightarrow$  Running  $\longrightarrow$  Terminated
+(2) New  $\longrightarrow$  Ready  $\longrightarrow$  Waiting  $\longrightarrow$  Running  $\longrightarrow$  Waiting  $\longrightarrow$  Running  $\longrightarrow$  Terminated
+(3) New  $\longrightarrow$  Running  $\longrightarrow$  Ready  $\longrightarrow$  Waiting  $\longrightarrow$  Running  $\longrightarrow$  Ready  $\longrightarrow$  Terminated
+(4) New  $\longrightarrow$  Running  $\longrightarrow$  Waiting  $\longrightarrow$  Ready  $\longrightarrow$  Waiting  $\longrightarrow$  Running  $\longrightarrow$  Terminated
+(5) New  $\longrightarrow$  Waiting  $\longrightarrow$  Running  $\longrightarrow$  Ready  $\longrightarrow$  Running  $\longrightarrow$  Ready  $\longrightarrow$  Terminated
 
-(3)  $x\overline{z}$
+13. Which of the following is not a task of a computer operating system?
 
-(4)  $\overline{x} z$
-
-(5)  $y + x\overline{z}$
-
-15. Which of the following are correct regarding the Process Control Block (PCB)?
-
-A - It is a data structure used by the operating system to manage information about a process.
-B - It is created during the compilation of a program.
-C - The program Counter values of two PCBs can be the same.
-
-(1) A only
-
-(2) A and B only
-
-(3) A and C only
-
-(4) B and C only
-
-(5) All A, B and C
+(1) selecting a memory frame for a page of a process
+(2) maintaining a list of free memory frames
+(3) maintaining a page table for each process
+(4) monitoring the usage of binary files on a hard disk
+(5) swapping processes between main memory and hard disk
 
 [See page four
 
 ---
 
-AL/2024/20/E-I
+AL/2022(2023)/20/E-I
+-4-
 
-16. Amara switches on a multi-user computer system. After it has booted, Sama logs on to the computer from a terminal and starts a web browser. After sometime, Sama starts a text editor also to work on her Python program. Then Rani also logs on to the computer from another terminal and starts a web browser.
+14. The block size of a disk is 4KB. A portion of its File Allocation Table (FAT) at a particular time is shown below. The portion shown indicates the blocks of the average.py file as well.
 
-Which of the following are possible execution sequences on the processor of this computer?
+FAT
 
-(1) BIOS → OS → Sama's web browser process → OS → Sama's text editor process → OS → Rani's web browser process → OS → Sama's text editor process → ...
-(2) BIOS → OS → Sama's web browser process → Sama's text editor process → OS → Rani's web browser process → OS → Sama's web browser process → ...
-(3) BIOS → Sama's web browser process → Sama's text editor process → OS → Rani's web browser process → OS → Sama's text editor process → ...
-(4) OS → BIOS → Sama's web browser process → OS → Sama's text editor process → OS → Rani's web browser process → OS → Sama's web browser process → ...
-(5) OS → BIOS → Sama's web browser process → Sama's text editor process → OS → Rani's web browser process → OS → Sama's web browser process → ...
 
-17. Each block of a disk is 512 bytes. When a file of size 1959 bytes is stored on that disk, how many bytes allocated to the file would be wasted?
+<table><tr><td>200</td><td>202</td></tr><tr><td>201</td><td>200</td></tr><tr><td>202</td><td>−1</td></tr><tr><td>203</td><td>201</td></tr><tr><td>204</td><td>205</td></tr></table>
 
-(1) 89
 
-(2) 423
+Notes:
+I. The last block of a file is indicated by −1.
+II. The directory entry of a file contains the block number of the first block of the file.
 
-(3) 512
+Which of the following gives the directory entry for the average.py file and the disk space allocated for the average.py file respectively?
 
-(4) 601
+(1) 200, 12KB
+(2) 200, 16KB
+(3) 200, 20KB
+(4) 203, 16KB
+(5) 203, 20KB
 
-(5) 1447
+15. Which of the following are Transport Layer protocols of the TCP/IP stack?
 
-18. Which of the given statements (I, II, III) are true with respect to the following two diagrams? (Note: V - Voltage, t - time)
+A – Transmission Control Protocol (TCP)
+B – User Datagram Protocol (UDP)
+C – File Transfer Protocol (FTP)
+D – Internet Protocol (IP)
 
-![img-3.jpeg](images/img-3.jpeg)
+(1) A and B only
+(2) A and C only
+(3) B and C only
+(4) B and D only
+(5) All A, B, C and D
 
-I - A depicts an analog signal.
+16. Which of the following statements is/are correct about MAC and IPv4 addresses?
 
-II - B depicts a digital signal.
+A – MAC addresses are 32 bits in length and are used in the network layer.
+B – MAC addresses are 48 bits in length and are used in the datalink layer.
+C – IPv4 addresses are 32 bits in length and are used in the network layer.
 
-III - B is a digitized version of A.
+(1) A only
+(2) B only
+(3) C only
+(4) A and C only
+(5) B and C only
 
-(1) I only
+17. Which of the following is/are correct regarding a firewall?
 
-(2) II only
+A – It can monitor and filter outgoing traffic from an internal network.
+B – It protects a network from unauthorized accesses.
+C – It can be a hardware, a software or a combination of both.
 
-(3) III only
+(1) A only
+(2) A and B only
+(3) A and C only
+(4) B and C only
+(5) All A, B and C
 
-(4) II and III only
+18. An organization with the assigned IP address block 193.1.1.0/24 needs to define eight subnets. Each subnet should provide for more than 25 IP addresses. Which of the following correctly lists the number of bits needed to identify the given network, the total number of bits needed to identify the subnets, and the number of bits needed to assign unique IP addresses for this requirement, respectively?
 
-(5) All I, II and III
+(1) 24, 3,5
+(2) 24, 5, 3
+(3) 24, 27, 5
+(4) 27, 3,5
+(5) 27, 30, 2
 
-19. Which of the following is correct regarding parity bits?
+19. Which of the following statements is correct regarding network topologies?
 
-(1) The parity bit in a set of bits is adjusted after that set of bits is communicated.
-(2) The parity bit for a set of bits is selected to ensure the total number of 1-bits in the set is either even or odd.
-(3) The transmission speed of a communication is increased by parity bits.
-(4) Parity bits are added after a communication to correct errors.
-(5) Encryption needed in a data transmission is provided by parity bits.
-
-20. What is done by a modem when it receives an analog signal from a PSTN (Public Switched Telephone Network) line?
-
-(1) It amplifies the signal for better clarity.
-(2) It compresses the signal for storage.
-(3) It demodulates the signal back into digital form.
-(4) It encrypts the signal for security.
-(5) It modulates the signal further for transmission.
+(1) In bus topology, a central network hub is used to connect all nodes.
+(2) In star topology, a linear cable is used to connect all nodes.
+(3) In ring topology, messages are sent only clockwise.
+(4) In ring topology, each node is directly connected only to two of its neighbors.
+(5) In mesh topology, each node is always connected to one other node only.
 
 [See page five
 
-0001095
-
-Past Papers Wiki
-
 ---
 
-AL/2024/20/E-I
-- 5 -
+AL/2022(2023)/20/E-I
 
-21. Which of the following best describes a switch in a network?
-(1) It amplifies data signals for clearer transmission.
-(2) It always broadcasts all incoming data to every device in the network.
-(3) It compresses data for more efficient transmission.
-(4) It directs data only to the specific device for which the data is intended.
-(5) It stores data for future processing.
+20. Consider the seven layer OSI reference model and match each of the given layers labeled from P to S to the corresponding responsibility of it labeled from 1 to 4.
 
-22. How many usable host addresses are available in the 192.168.100.0/27 IP address block?
-(1) 16
-(2) 30
-(3) 32
-(4) 62
-(5) 64
 
-23. Which of the following are properties of the Transmission Control Protocol (TCP)?
-A – detection and correction of any errors in a communication
-B – receiver acknowledging to the sender about the receipt of a data packet
-C – ensuring data packets are received in order
+<table><tr><th>Layer</th><th>Responsibility</th></tr><tr><td>P – Application layer</td><td>1 – binary transmission over the communication medium</td></tr><tr><td>Q – Physical layer</td><td>2 – route determination</td></tr><tr><td>R – Transport layer</td><td>3 – user services that include file transfer, remote access etc.</td></tr><tr><td>S – Network layer</td><td>4 – data delivery from process to process</td></tr></table>
+
+
+(1) P – 1, Q – 3, R – 2, S – 4
+(2) P – 2, Q – 4, R – 3, S – 1
+(3) P – 3, Q – 1, R – 2, S – 4
+(4) P – 3, Q – 1, R – 4, S – 2
+(5) P – 4, Q – 2, R – 1, S – 3
+
+21. Which of the following statements is/are correct?
+
+A – A digital signature ensures the authenticity of a message.
+B – In asymmetric key encryption, different keys are used for encryption and decryption.
+C – The encryption process transforms plaintext to ciphertext.
+
 (1) A only
-(2) A and B only
-(3) A and C only
-(4) B and C only
+(2) B only
+(3) C only
+(4) A and B only
 (5) All A, B and C
 
-24. A new system must be delivered completely to the client by a given date. There should not be any partial deliveries. Further, the system architecture and design must be fully defined before any coding began.
+22. Match each of the given data communication protocols labelled from P to T to the corresponding descriptions labelled from 1 to 5.
 
-Which of the following are suitable models to develop this system?
-A – waterfall
-B – spiral
-C – agile
-(1) A only
-(2) A and B only
-(3) A and C only
-(4) B and C only
-(5) All A, B and C
 
-25. During the feasibility analysis of a software development project, it was discovered that the development team does not have the knowledge and the skills to develop the software. Which component of the feasibility study would have identified this issue?
-(1) economic feasibility
-(2) legal feasibility
-(3) operational feasibility
-(4) schedule feasibility
-(5) technical feasibility
+<table><tr><th>Protocol</th><th>Description</th></tr><tr><td>P – Hyper Text Transfer Protocol (HTTP)</td><td>1 – provides directory lookup service for given web addresses and URLs</td></tr><tr><td>Q – Transmission Control Protocol (TCP)</td><td>2 – provides a very reliable data transfer service</td></tr><tr><td>R – Domain Name System (DNS) Protocol</td><td>3 – used in the world wide web</td></tr><tr><td>S – Internet Protocol (IP)</td><td>4 – provides a connection-less transport service</td></tr><tr><td>T – User Datagram Protocol (UDP)</td><td>5 – handles unique addressing of hosts in the Internet</td></tr></table>
 
-26. Which of the following shows the correct order of stages in the System Development Life Cycle?
-(1) Feasibility study → Requirements analysis → System design → Implementation → Testing → Deployment
-(2) Feasibility study → System design → Requirements analysis → Implementation → Testing → Deployment
-(3) Requirements analysis → Feasibility study → System design → Testing → Deployment → Implementation
-(4) Requirements analysis → System design → Feasibility study → Deployment → Testing → Implementation
-(5) System design → Requirements analysis → Feasibility study → Implementation → Testing → Deployment
 
-27. Which of the following is not true regarding the prototyping technique used in system development?
-(1) Prototypes need to be approved by the users, during the ‘system testing’ phase.
-(2) Prototyping is neither necessary nor appropriate in every project.
-(3) Successful prototyping helps to develop a system that better addresses user needs and expectations.
-(4) Successful prototyping helps to eliminate costly late changes to a system.
-(5) To get the benefits of prototyping, user feedback on the prototypes is extremely important.
+(1) P – 2, Q – 4, R – 1, S – 5, T – 3
+(2) P – 2, Q – 5, R – 4, S – 1, T – 3
+(3) P – 3, Q – 2, R – 1, S – 5, T – 4
+(4) P – 3, Q – 4, R – 5, S – 1, T – 2
+(5) P – 4, Q – 2, R – 3, S – 1, T – 5
+
+23. The following diagrams labelled (A), (B) and (C) illustrate three software deployment types.
+
+![img-1.jpeg](images/img-1.jpeg)
+(A)
+
+![img-2.jpeg](images/img-2.jpeg)
+(B)
+
+![img-3.jpeg](images/img-3.jpeg)
+(C)
+
+Which of the following correctly represents (A), (B) and (C) deployment types respectively?
+
+(1) Direct, Phased and Parallel
+(2) Direct, Pilot and Parallel
+(3) Parallel, Phased and Direct
+(4) Parallel, Pilot and Phased
+(5) Phased, Direct and Pilot
 
 [See page six
 
 ---
 
-AL/2024/20/E-I
-- 6 -
+AL/2022(2023)/20/E-I
+-6-
 
-28. Which of the following statements regarding *software* *tests* are correct?
+24. Consider the information system types in List A and the descriptive examples in List B. Identify the most suitable matching between the items in lists A and B.
 
-A – *White-box tests* involve testing the internal structures and workings of a software.
-B – *Unit tests* are usually performed after the *system test*.
-C – System developers should take every effort to make the *acceptance test* successful.
+
+<table><tr><th>List A</th><th>List B</th></tr><tr><td>A1 - Decision Support System (DSS)</td><td>B1 - a system that allows to update, create, and manage the details in a news website</td></tr><tr><td>A2 - Content Management System (CMS)</td><td>B2 - a system that handles electronic fund transfers</td></tr><tr><td>A3 - Transaction Processing System (TPS)</td><td>B3 - a system that combines data and analytical tools for sales forecasting based on historical data</td></tr></table>
+
+
+(1) A1 – B1, A2 – B2, A3 – B3
+(2) A1 – B2, A2 – B1, A3 – B3
+(3) A1 – B2, A2 – B3, A3 – B1
+(4) A1 – B3, A2 – B1, A3 – B2
+(5) A1 – B3, A2 – B2, A3 – B1
+
+25. Which of the following statements is/are correct regarding System Development Life Cycle (SDLC) models?
+
+A – In the agile model, small portions of systematically developed working software are delivered to the client frequently.
+B – Late changes in the requirements can be easily accommodated in the waterfall model.
+C – Prototyping model can be practiced without client interactions.
 
 (1) A only
-(2) A and B only
-(3) A and C only
-(4) B and C only
-(5) All A, B and C
+(2) B only
+(3) C only
+(4) A and B only
+(5) A and C only
 
-- Read the following description to answer questions 29 and 30.
+26. Non-functional requirements specify quality attributes of a system. Which of the following is an example for a non-functional requirement?
 
-A *playground reservation system* is needed for students and others to reserve the school playground (which is adjoining the school) for team sports. Each reservation is for two hours. All non-students will need to pay for their reservations. The reservations are to be made using the National Identity Card (NIC) numbers. The NICs are to be verified at the playground gate before a team is let in.
+(1) the email system should allow users to attach files
+(2) each page of the website must load within 4 seconds
+(3) administrator of the E-commerce website should be able to view a list of customers
+(4) a user of the online banking system should be able to view the last transactions
+(5) the ATM machine should allow users to print a receipt
 
-The algorithm that could be used for the reservation process is shown below with blanks labelled A – D.
+27. Which of the following Data Flow Diagrams (DFDs) is correct with respect to the rules of data flow modelling? (Note: A – an external entity, B – a process, C – a data store)
 
-BEGIN
-A
-IF user interested to make a reservation THEN
-B
-C
-IF user is not a student THEN
-D
-ENDIF
-Confirm booking and update reservation database
-ENDIF
-END.
+(1)
+![img-4.jpeg](images/img-4.jpeg)
 
-29. Which of the following contains the suitable replacements for the above blanks?
+(2)
+![img-5.jpeg](images/img-5.jpeg)
 
-(1) A – DISPLAY existing bookings B – GET date/time C – GET NIC number D – Complete user’s credit/debit card payment
-(2) A – DISPLAY existing bookings B – GET date/time C – Complete user’s credit/debit card payment D – GET NIC number
-(3) A – DISPLAY existing bookings B – GET NIC number C – Complete user’s credit/debit card payment D – GET date/time
-(4) A – GET date/time B – DISPLAY existing bookings C – GET NIC number D – Complete user’s credit/debit card payment
-(5) A – GET NIC number B – DISPLAY existing bookings C – GET date/time D – Complete user’s credit/debit card payment
+(3)
+![img-6.jpeg](images/img-6.jpeg)
 
-30. Which of the following suggestions about the above system is *not* suitable?
+(4)
+![img-7.jpeg](images/img-7.jpeg)
 
-(1) The list of reservations for a given date should be provided when needed.
-(2) Each time a student is making a reservation he/she should be required to enter his/her home address.
-(3) It is suitable to check the validity of the NIC number.
-(4) Reservations should not clash with school times.
-(5) For fairness, the number of reservations that a particular NIC number is allowed per day should be limited.
+(5)
+![img-8.jpeg](images/img-8.jpeg)
+
+28. Which of the following statements is correct regarding software testing?
+
+(1) Integration testing is usually carried out before unit testing.
+(2) Black-box testing techniques are usually used in acceptance testing.
+(3) White box testing examines the behaviour of a software based only on the inputs to a system.
+(4) Unit testing examines the entire system's functionality as a whole.
+(5) System testing is usually carried out after the user acceptance testing.
 
 [See page seven]
-0001093
-Past Papers Wiki
 
 ---
 
-AL/2024/20/E-I
-- 7 -
+AL/2022(2023)/20/E-I
+-7-
 
-31. Consider the following relation about a student who is registered in a programme at an institute: STUDENT(Sno, Snic, Sname, Sphone, Prog_number)
+29. Consider the following relational schema:
+Student (StudentId, StudentName, Address, Gender, DateOfBirth)
+Study (StudentId, SubjectId, Grade)
+Subject (SubjectId, SubjectName)
 
-Note:
-Sno - the unique registration number of the student
-Snic - the national identity card number of the student
-Sname - the name of the student
-Sphone - a phone number of the student
-Prog_number - the unique number of the programme for which the student has registered
+Which of the following is the most suitable Entity Relationship (ER) diagram to correctly represent the relationship between Student and Subject entities?
 
-Which of the following are correct?
-A – Sno can be the primary key.
-B – Snic can be a candidate key.
-C – Prog_number can be a foreign key.
+Note: In the ER diagrams, the entities are drawn without attributes.
 
-(1) A only
+![img-9.jpeg](images/img-9.jpeg)
+
+- The tables which are partially extracted from a database used in an information system developed for a shop are shown below. Answer the questions from 30 to 32 using those tables.
+
+Customer
+
+
+<table><tr><th>CusId</th><th>Fname</th><th>Lname</th><th>Location</th></tr><tr><td>C001</td><td>Saman</td><td>Perera</td><td>Dehiwala</td></tr><tr><td>C002</td><td>Kalum</td><td>Gamage</td><td>Galle</td></tr><tr><td>C003</td><td>Shiromi</td><td>Silva</td><td>Galle</td></tr><tr><td>C004</td><td>Kalum</td><td>Perera</td><td>Kandy</td></tr></table>
+
+
+Product
+
+
+<table><tr><th>ProId</th><th>Name</th></tr><tr><td>PR001</td><td>Refrigerator</td></tr><tr><td>PB401</td><td>Blender</td></tr><tr><td>PM025</td><td>Mobile Phone</td></tr><tr><td>PP009</td><td>Inkjet Printer</td></tr></table>
+
+
+Order
+
+
+<table><tr><th>OrderId</th><th>CusId</th><th>OrderDate</th><th>SellerId</th></tr><tr><td>A001</td><td>C002</td><td>2022-07-14</td><td>S001</td></tr><tr><td>A002</td><td>C003</td><td>2022-07-14</td><td>S001</td></tr><tr><td>A003</td><td>C002</td><td>2022-07-18</td><td>S002</td></tr><tr><td>A004</td><td>C004</td><td>2022-07-20</td><td>S002</td></tr></table>
+
+
+Order_Product
+
+
+<table><tr><th>OrderId</th><th>ProId</th></tr><tr><td>A003</td><td>PR001</td></tr><tr><td>A001</td><td>PR001</td></tr><tr><td>A002</td><td>PB401</td></tr><tr><td>A003</td><td>PM025</td></tr><tr><td>A004</td><td>PP009</td></tr></table>
+
+
+30. Which of the following shows the most suitable primary keys for Order and Order_Product relations?
+
+(1) Order: CusId, Order_Product: OrderId
+(2) Order: OrderId, Order_Product: OrderId
+(3) Order: OrderId, Order_Product: OrderId + ProdId
+(4) Order: CusId + SellerId, Order Product: ProdId
+(5) Order: OrderId + CusId, Order_Product: OrderId
+
+[See page eight]
+
+---
+
+AL/2022(2023)/20/E-I
+-8-
+
+31. What will be the output after executing the following SQL statement?
+SELECT Customer.Fname, Customer.Lname, Order.OrderId
+FROM Customer INNER JOIN Order ON Customer.CusId = Order.CusId
+WHERE Customer.Location="Galle";
+
+(1)
+
+<table><tr><th>Fname</th><th>Lname</th><th>OrderId</th></tr><tr><td>Kalum</td><td>Gamage</td><td>A001</td></tr><tr><td>Kalum</td><td>Gamage</td><td>A003</td></tr><tr><td>Shiromi</td><td>Silva</td><td>A002</td></tr></table>
+
+
+(2)
+
+<table><tr><th>Fname</th><th>Lname</th><th>OrderId</th></tr><tr><td>Kalum</td><td>Gamage</td><td>A004</td></tr><tr><td>Kalum</td><td>Perea</td><td>A001</td></tr><tr><td>Kalum</td><td>Gamage</td><td>A003</td></tr><tr><td>Shiromi</td><td>Silva</td><td>A002</td></tr></table>
+
+
+(3)
+
+<table><tr><th>Fname</th><th>Lname</th><th>OrderId</th></tr><tr><td>Kalum</td><td>Gamage</td><td>A001</td></tr><tr><td>Kalum</td><td>Perera</td><td>A003</td></tr><tr><td>Shiromi</td><td>Silva</td><td>A002</td></tr></table>
+
+
+(4)
+
+<table><tr><th>Lname</th><th>Fname</th><th>OrderId</th></tr><tr><td>Gamage</td><td>Kalum</td><td>A001</td></tr><tr><td>Gamage</td><td>Kalum</td><td>A003</td></tr><tr><td>Silva</td><td>Shiromi</td><td>A002</td></tr></table>
+
+
+(5)
+
+<table><tr><th>Fname</th><th>Lname</th><th>OrderId</th></tr><tr><td>Kalum</td><td>Gamage</td><td>A001</td></tr><tr><td>Shiromi</td><td>Silva</td><td>A002</td></tr></table>
+
+
+32. Which of the following is correct regarding the Order relation?
+(1) CusId attribute uniquely identifies each tuple in the relation.
+(2) The relation is in First Normal Form (1NF).
+(3) The relation is in Second Normal Form (2NF).
+(4) Orders of each customer are handled by a unique salesperson.
+(5) The relation consists of a composite primary key.
+
+33. Which of the following statements is/are correct regarding the normalization concept?
+A – In first normal form, atomic attributes are removed from a relation.
+B – In second normal form, partial dependency of attributes on the primary key are removed.
+C – In third normal form, transitive dependency of attributes are removed.
+(1) B only
 (2) A and B only
 (3) A and C only
 (4) B and C only
 (5) All A, B and C
 
-32. Which of the following are true?
-A – A table can have multiple candidate keys.
-B – A primary key is always a candidate key.
-C – A candidate key of one table can be used as a foreign key in another table.
-
+34. Which of the following statements is/are correct regarding Entity Relationship (ER) modelling?
+A – A weak entity is dependent on another entity.
+B – A derived attribute is represented as an attribute in a relation.
+C – An entity can contain a multi-value attribute and a composite attribute at the same time.
 (1) A only
-(2) A and B only
+(2) B only
 (3) A and C only
 (4) B and C only
 (5) All A, B and C
 
-33. Which of the following are examples of one-to-many relationships?
-A – A customer can place many orders, but each order is placed by only one customer.
-B – An employee can be assigned to multiple projects, and each project can have multiple employees.
-C – One department has one manager, and each manager manages multiple departments.
-D – A supplier can supply only one item and an item can be supplied by only one supplier.
-
-(1) A and B only
-(2) A and C only
-(3) A and D only
-(4) B and C only
-(5) C and D only
-
-34. Match the Normal forms labelled from 0 to 3 to the corresponding Descriptions labelled from A to D.
-
-
-<table><tr><th>Normal form</th></tr><tr><td>0 - Zero normal form</td></tr><tr><td>1 - First normal form</td></tr><tr><td>2 - Second normal form</td></tr><tr><td>3 - Third normal form</td></tr></table>
-
-
-<table><tr><th>Description</th></tr><tr><td>A. single valued attributes</td></tr><tr><td>B. full functional dependency</td></tr><tr><td>C. repeating data</td></tr><tr><td>D. transitive dependency</td></tr></table>
-
-
-(1) 0 – A, 1 – B, 2 – C, 3 – D
-(2) 0 – A, 1 – C, 2 – B, 3 – D
-(3) 0 – B, 1 – C, 2 – A, 3 – D
-(4) 0 – C, 1 – A, 2 – D, 3 – B
-(5) 0 – D, 1 – B, 2 – C, 3 – A
-
-35. What is the primary purpose of database normalization?
-(1) eliminating data redundancy and anomalies
-(2) increasing the number of tables in the database
-(3) organizing data into logical structures and relationships
-(4) simplifying database queries
-(5) speeding-up database queries
-
-[See page eight
+[See page nine
 
 ---
 
-AL/2024/20/E-I
-- 8 -
+AL/2022(2023)/20/E-I
 
-36. Which of the following will change all occurrences of ‘Mahawa’ in the ‘City’ attribute of USER in relation to ‘Maho’?
+35. The following ER diagram represents a scenario of students borrowing books from a library. Which of the following gives the most suitable relation list for the given ER diagram?
 
-(1) MODIFY USER SET City = 'Maho' WHERE City = 'Mahawa';
-(2) MODIFY USER SET City = 'Mahawa' INTO City = 'Maho';
-(3) UPDATE USER SET City = 'Mahawa' INTO City = 'Maho';
-(4) UPDATE USER SET City = 'Maho' WHERE City = 'Mahawa';
-(5) UPDATE USER SET City = 'Maho' WHERE City != 'Mahawa';
+![img-10.jpeg](images/img-10.jpeg)
 
-37. Which of the following lists the given SQL statement clauses in the correct order?
+(1) BOOK (Book_Id, Book_Name, ISBN, Stu_Id, Aut_Id)
+STUDENT (Stu_Id, Stu_FName, Stu_LName, DOB)
+AUTHOR (Aut_Id, Aut_Name)
+AUTHOR_QUALIFICATION (Aut_Id, Qualifications)
 
-(1) SELECT, FROM, WHERE, GROUP BY, HAVING
-(2) SELECT, GROUP BY, HAVING, FROM, WHERE
-(3) SELECT, HAVING, FROM, WHERE, GROUP BY
-(4) SELECT, WHERE, GROUP BY, HAVING, FROM
-(5) SELECT, WHERE, HAVING, GROUP BY, FROM
+(2) BOOK (Book_Id, Book_Name, ISBN)
+STUDENT (Stu_Id, Stu_LFName, Stu_LName, DOB)
+AUTHOR (Aut_Id, Aut_Name)
+AUTHOR_QUALIFICATION (Aut_Id, Qualifications)
 
-38. What would be the execution output of the following Python code if a = 5, b = 3, c = 2 and d = 6?
+(3) BOOK (Book_Id, Book_Name, ISBN, Stu_Id, Aut_Id)
+STUDENT (Stu_Id, Stu_FName, Stu_LName, DOB)
+AUTHOR (Aut_Id, Aut_Name, Qualifications)
 
-x = (a - b) ** c + d % c
-print(x)
+(4) BOOK (Book_Id, Book_Name, ISBN, Stu_Id, Aut_Id)
+STUDENT (Stu_Id, Stu_Name, DOB)
+AUTHOR (Aut_Id, Aut_Name)
+AUTHOR_QUALIFICATION (Aut_Id, Qualifications)
 
-(1) -22
-(2) 0
-(3) 1
-(4) 4
-(5) 7
+(5) BOOK (Book_Id, Book_Name, ISBN, Stu_Id, Aut_Id)
+STUDENT (Stu_Id, Stu_Name, DOB)
+AUTHOR (Aut_Id, Aut_Name)
+AUTHOR_QUALIFICATION (Aut_Id, Qualifications)
+BORROW (Aut_Id, Book_Id)
+WRITE (Aut_Id, Book_Id)
 
-39. What is the execution output of the following Python code?
+36. Which of the following statements is/are correct about the algorithm expressed by the given flowchart?
 
-qns = ["a", "b"]
-for x in range (1,3):
-for y in qns:
-print(x,y, end=' ')
+A – An input is taken from the user only once.
+B – The output of the algorithm is always 9.
+C – The algorithm outputs the summation of all the numbers entered.
 
-(1) 0a2b
-(2) 1a3b
-(3) 1a1b2a2b
-(4) 1a1b3a3b
-(5) 1a3a1b3b
+(1) A only
+(2) B only
+(3) C only
+(4) A and B only
+(5) B and C only
 
-40. What is the execution output of the following Python code?
+![img-11.jpeg](images/img-11.jpeg)
 
-def list_operation(nlist):
-for i in range(len(nlist)):
-if i % 2 == 0:
-nlist[i] = nlist[i] ** 2
-else:
-nlist[i] = nlist[i] + 3
-return nlist
-numbers = [1, 2, 3, 4, 5]
-output = list_operation(numbers)
-print(output)
+/See page ten
 
-(1) [1, 2, 3, 4, 5]
-(2) [1, 5, 9, 7, 25]
-(3) [2, 5, 6, 7, 10]
-(4) [4, 4, 6, 16, 8]
-(5) [4, 6, 16, 8, 36]
+---
 
-41. What is the execution output of the following Python code?
+AL/2022(2023)/20/E-I
+-10-
 
-marks = [(1, "amara", 96), (2, "rajah", 34), (3, "rani", 49), (4, "fahim", 68)]
+37. What would be the output of the following Python code if the input was 25?
+x = int(input())
+x = (x % (x - 21)) **3
+print (x)
+(1) 0
+(2) 1
+(3) 3
+(4) 12
+(5) 25
 
-i = -1
-while i &lt; (len(marks) - 1):
-i += 1
-if marks[i][2] &lt; 50:
+38. What would be the output of the following Python code?
+def fun(para1, para2):
+x=foo(para2, para1)
+return x
+
+def foo(para3, para4):
+return para3 - para4
+
+result=fun(2, 4)
+print("Result is " + str(result))
+
+(1) Result is 0
+(2) Result is 2
+(3) Result is -2
+(4) Result is (2, 4)
+(5) Result is +2
+
+39. What would be the output of the following Python code?
+def foo(name, age=18, address="Kandy"):
+print (name, address, age)
+
+foo("Nimal", 25, "Colombo")
+(1) Nimal Colombo 25
+(2) Nimal, Colombo, 25
+(3) Nimal, Kandy, 18
+(4) Nimal Kandy 18
+(5) Nimal 18 Kandy
+
+40. What would be the output of the following Python code?
+numbers=[10, 20, 30, 40, 50]
+numbers.pop(1)
+numbers.append(60)
+numbers.pop(2)
+print(numbers)
+(1) [10, 50, 60]
+(2) [10, 20, 40, 60]
+(3) [10, 30, 50, 60]
+(4) [20, 30, 40, 50]
+(5) [20, 30, 50, 60]
+
+41. What would be the output of the following Python code?
+val = 9
+for i in range(5):
+for j in range(2, 3, 1):
+val += 1
+if (val % 2) == 0:
 continue
-print(marks[i][1], end=" ")
+val += 2
+else:
+val += 2
+print(val)
+(1) 18
+(2) 24
+(3) 29
+(4) 38
+(5) 39
 
-(1) 1 4
-(2) 1 amara 4 fahim
-(3) amara fahim
-(4) rajah
-(5) rajah rani
-
-[See page nine]
-0001996
-Past Papers Wiki
-www.paperswik.com
-
----
-
-AL/2024/20/E-I
-- 9 -
-
-42. The output shown in Figure 42.2 can be obtained using the exports_imports.txt shown in Figure 42.1 by executing the Python code shown in Figure 42.3 with suitable replacements for its blanks labelled $\mathbf{P} - \mathbf{U}$.
-
-```txt
-Garments E 45%
-Fuel I 20%
-Machinery I 15%
-Tea E 20%
-Chemicals I 10%
-Rubber E 15%
-```
-
-Figure 42.1: exports_imports.txt file
-
-```txt
-Garments : 45%
-Tea : 20%
-Rubber : 15%
-```
-
-Figure 42.2: The output
-
-```python
-P = open('exports_imports.txt', Y)
-while True:
-Q = P.readline()
-if not Q:
-R
-item = Q.split()
-if item[S] == "E":
-print(item[T],":", item[U])
-P.close()
-```
-
-Figure 42.3: The Python code
-
-Which option contains the suitable replacements for the blanks?
-
-(1) P - file  Q - line  R - break  S - 1  T - 0  U - 2
-(2) P - file  Q - line  R - continue  S - 2  T - 1  U - 3
-(3) P - file  Q - line  R - continue  S - 2  T - 1  U - 3
-(4) P - line  Q - file  R - continue  S - 1  T - 0  U - 2
-(5) P - line  Q - file  R - break  S - 1  T - 0  U - 2
-
-43. Which of the following statements are true about web pages created using web authoring tools?
-
-A - The HTML code for such a page is automatically generated.
-B - Such a page can be enhanced by manually adding HTML tags later.
-C - Multimedia content cannot be added to them.
-
-(1) A only
-(2) A and B only
-(3) A and C only
-(4) B and C only
-(5) All A, B and C
-
-44. What is the primary purpose of an HTML style sheet?
-
-(1) to apply formatting and styles to HTML elements
-(2) to create databases for a website
-(3) to define the structure of a webpage
-(4) to send form data to databases
-(5) to update the content of a webpage
-
-45. Which of the following can be used to change the look of an entire website by changing just one file?
-
-A - external CSS  B - inline CSS  C - internal CSS
-(1) A only
-(2) A and B only
-(3) A and C only
-(4) B and C only
-(5) All A, B and C
-
-46. For what purpose is POST used in an HTML form?
-
-(1) to display a confirmation message after form submission
-(2) to display form data on the screen
-(3) to refresh the web page
-(4) to retrieve data from the server
-(5) to send form data to the server
-
-[See page ten]
+[See page eleven
 
 ---
 
-AL/2024/20/E-I
-- 10 -
+AL/2022(2023)/20/E-I
+-11-
 
-47. Which of the following statements are correct regarding website publishing?
+42. Which of the following is/are correct regarding Python functions?
+A – A Python function can return a data structure that contains multiple values.
+B – A Python function can be used without passing any parameters to it.
+C – Parameters can be passed to a python function by value or by reference.
 
-A – One has to obtain a domain name to publish a website.
-B – Before deciding to host a website on one’s own computer, one has to do a good cost-benefit analysis on the same.
-C – Shared hosting will provide faster access to the site’s users all the time compared to either Virtual Private Server (VPS) hosting or dedicated server hosting.
+(1) B only
+(2) C only
+(3) A and C only
+(4) B and C only
+(5) All A, B and C
+
+43. Which of the following HTML tags can be used to change the appearance of a word in a text?
+
+(1) <i>, <em>, <li>, <br>
+(2) <b>, <i>, <em>, <h1>
+(3) <b>, <em>, <sup>, <li>
+(4) <i>, <u>, <br>, <sup>, <sup>, <sup>
+(5) <u>, <i>, <i>, <ol>, <b>
+(44. What would be the output of the following HTML code segment?
+<dl>
+<dt> Vegetable </dt>
+<dd> Potato </dd>
+<dt> Fruit </dt>
+<dd> Orange </dd>
+</dd>
+</dl>
+
+(1) • Vegetable
+• Potato
+• Fruit
+• Orange
+(2) Vegetable
+Potato
+Fruit
+Orange
+(3) • Vegetable
+Potato
+• Fruit
+Orange
+
+(4) 1. Vegetable
+Potato
+2. Fruit
+Orange
+(5) • Vegetable
+- Potato
+• Fruit
+- Orange
+
+45. Which of the following statements is/are correct regarding HTML and CSS?
+A – CSS can be used to describe how HTML elements are to be displayed on screen.
+B – External CSS can be used to define the style for many HTML pages.
+C – Inline CSS can be used to apply a style to a single HTML element.
 
 (1) A only
 (2) A and B only
@@ -677,39 +702,24 @@ C – Shared hosting will provide faster access to the site’s users all the ti
 (4) B and C only
 (5) All A, B and C
 
-48. Which of the following is correct?
+46. Which of the following HTML code line can be used to create a hyperlink to the website of the National Institute of Education? (The URL of the website is http://nie.lk)
 
-(1) Arduino Uno is the protocol used for setting up simple IoT applications.
-(2) LDR and LED are sensors used in Arduino Uno based IoT applications.
-(3) Serial.begin(9600) provides a valid baud rate to initiate the serial communication between the Arduino Uno board and the computer.
-(4) Since Arduino Uno does not have a hard disk it is not subjected to unauthorized data access.
-(5) An ethernet shield must be connected to the four pins between A0 – A5 of the ATMega328P microcontroller.
+(1) <a src="http://nie.lk">National Institute of Education</a>
+(2) <a href="http://nie.lk">National Institute of Education</a>
+(3) <a img="http://nie.lk">National Institute of Education</a>
+(4) <a href="http://nie.lk"></a>National Institute of Education</a>
+(5) <a src="http://nie.lk</a>National Institute of Education
 
-49. Which of the following statements are true?
+47. Which of the following could be used to create an array in PHP?
 
-A – Generative Artificial Intelligence (AI) tools can produce new content or data, according to their learned patterns.
-B – The use of Generative AI tools such as GPT with user prompts is an example of machine-to-machine coexistence.
-C – Although AI is used today, strong AI (machines possessing general intelligence and capabilities that are similar to human cognition) still remains a theoretical concept.
+A – $city[] = array("Colombo");
+B – city[] = "Colombo";
+C – $city = array("Colombo");
 
 (1) A only
-(2) A and B only
-(3) A and C only
-(4) B and C only
-(5) All A, B and C
+(2) B only
+(3) C only
+(4) A and C only
+(5) B and C only
 
-50. Consider the following statements P and Q:
-
-P – A qubit of a quantum computer can have a higher number of states than a bit of a traditional computer.
-Q – Quantum computing promises to perform calculations, currently beyond traditional computer’s reach, at incredible speeds.
-
-Which of the following is valid regarding the above two statements?
-
-(1) Both statements P and Q are correct and statement P gives the reason for statement Q.
-(2) Both statements P and Q are correct but the points presented in the two statements are not related.
-(3) Statement P is correct but statement Q is incorrect.
-(4) Statement P is incorrect but statement Q is correct.
-(5) Both statements P and Q are incorrect.
-
-***
-
-0001096 Past Papers Wiki
+[See page twelve</b></ol></b></ol></i></li></i></b></li></i></td></tr></table>

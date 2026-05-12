@@ -7,20 +7,7 @@
     "text": "Which of the following statements is/are correct? A \u2013 Firmware is a computer program that is usually embedded in the volatile memory of a computer. B \u2013 A printer driver is an example for an application software. C \u2013 Linux is an example for a system software. (1) A only (2) B only (3) C only (4) A and B only (5) B and C only",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      3
-    ],
-    "unit": 5,
-    "unit_confidence": 0.4238,
-    "unit_margin": 0.0082,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      5,
-      11,
-      5
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q02",
@@ -30,20 +17,7 @@
     "text": "Which of the following require(s) real-time processing? A \u2013 generating monthly electricity bills of customers B \u2013 updating the bank account balance of a customer when she/he withdraws money from an ATM C \u2013 updating the stock balance in a store upon successful completion of each transaction (1) A only (2) B only (3) C only (4) A and B only (5) B and C only",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      5
-    ],
-    "unit": 1,
-    "unit_confidence": 0.4977,
-    "unit_margin": 0.0083,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      1,
-      1,
-      1
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q03",
@@ -53,20 +27,7 @@
     "text": "Which of the following lists a computer memory hierarchy in the descending order of access speed? (1) hard disk, registers, L2 cache, L1 cache, main memory (2) main memory, L1 cache, registers, L2 cache, hard disk (3) registers, main memory, hard disk, L1 cache, L2 cache (4) registers, L1 cache, L2 cache, main memory, hard disk (5) L1 cache, L2 cache, registers, main memory, hard disk",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      4
-    ],
-    "unit": 2,
-    "unit_confidence": 0.5771,
-    "unit_margin": 0.038,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      2,
-      2,
-      5
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q04",
@@ -76,20 +37,7 @@
     "text": "Which of the following gives the correct results of bit-wise AND and bit-wise OR operations between the two binary numbers 01010100\u2082 and 11101001\u2082 respectively? (1) 01000000\u2082, 11111101\u2082 (2) 00000010\u2082, 10111001\u2082 (3) 10111101\u2082, 11001010\u2082 (4) 11000000\u2082, 00101100\u2082 (5) 11111101\u2082, 01010011\u2082",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 3,
-    "unit_confidence": 0.5656,
-    "unit_margin": 0.0396,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      3,
-      4,
-      3
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q05",
@@ -99,20 +47,7 @@
     "text": "What is the correct binary equivalent of decimal 12.75\u2081\u2080? (1) 1011.01\u2082 (2) 1011.11\u2082 (3) 1100.00\u2082 (4) 1100.11\u2082 (5) 1100.01\u2082",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      4
-    ],
-    "unit": 3,
-    "unit_confidence": 0.5489,
-    "unit_margin": 0.0101,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      3,
-      3,
-      6
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q06",
@@ -122,20 +57,7 @@
     "text": "What is the correct 2\u2019s complement binary representation of decimal \u201341\u2081\u2080 using 8-bits? (1) 00101001 (2) 01010110 (3) 10101001 (4) 11010110 (5) 11010111 [See page two --- AL/2022(2023)/20/E-I",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      5
-    ],
-    "unit": 3,
-    "unit_confidence": 0.4467,
-    "unit_margin": 0.0157,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      3,
-      3,
-      3
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q07",
@@ -145,20 +67,7 @@
     "text": "The address of an instruction was shown as 10f9 in hexadecimal. What is that address in decimal? (1) 25 (2) 1249 (3) 4345 (4) 10159 (5) 16249",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      3
-    ],
-    "unit": 3,
-    "unit_confidence": 0.4223,
-    "unit_margin": 0.0245,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      3,
-      6,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q08",
@@ -168,20 +77,7 @@
     "text": "A particular command can be used to output a text file in its binary format. Assume a file contains the following text:",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      3
-    ],
-    "unit": 9,
-    "unit_confidence": 0.5196,
-    "unit_margin": 0.0062,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      9,
-      3,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q09",
@@ -193,20 +89,7 @@
     "images": [
       "images/img-0.jpeg"
     ],
-    "tables": [],
-    "answer": [
-      2
-    ],
-    "unit": 4,
-    "unit_confidence": 0.4413,
-    "unit_margin": 0.0102,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      4,
-      4,
-      4
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q10",
@@ -216,20 +99,7 @@
     "text": "Simplified Boolean expressions help to obtain simpler circuits. Which of the following is a simplified form of $X + \\bar{X}Y$? (1) $X$ (2) $Y$ (3) $XY$ (4) $\\bar{X}Y$ (5) $X + Y$ [See page three --- AL/2022(2023)/20/E-I",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      5
-    ],
-    "unit": 4,
-    "unit_confidence": 0.4255,
-    "unit_margin": 0.0235,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      4,
-      4,
-      3
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q11",
@@ -239,22 +109,7 @@
     "text": "Consider the following truth table: <table><tr><td>A</td><td>B</td><td>C</td><td>Z</td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>1</td><td>0</td></tr></table> What is the correct Karnaugh map for the above truth table? (1) <table><tr><td>BC A</td><td>00</td><td>01</td><td>10</td><td>11</td></tr><tr><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td></tr></table> (2) <table><tr><td>BC A</td><td>00</td><td>01</td><td>11</td><td>10</td></tr><tr><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td></tr></table> (3) <table><tr><td>BC A</td><td>00</td><td>10</td><td>01</td><td>11</td></tr><tr><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td></tr></table> (4) <table><tr><td>BC A</td><td>00</td><td>10</td><td>11</td><td>01</td></tr><tr><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td></tr></table> (5) <table><tr><td>BC A</td><td>00</td><td>11</td><td>10</td><td>01</td></tr><tr><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td></tr></table>",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      2,
-      4
-    ],
-    "unit": 4,
-    "unit_confidence": 0.3594,
-    "unit_margin": 0.0115,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      4,
-      4,
-      4
-    ],
-    "llm_model": "llama-3.3-70b-versatile"
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q12",
@@ -264,20 +119,7 @@
     "text": "A program in execution in a computer is called a process. Such a process transits between several states during its lifetime. Which of the following correctly represents a possible state transition sequence of a process? (1) New  $\\longrightarrow$  Ready  $\\longrightarrow$  Running  $\\longrightarrow$  Waiting  $\\longrightarrow$  Ready  $\\longrightarrow$  Running  $\\longrightarrow$  Terminated (2) New  $\\longrightarrow$  Ready  $\\longrightarrow$  Waiting  $\\longrightarrow$  Running  $\\longrightarrow$  Waiting  $\\longrightarrow$  Running  $\\longrightarrow$  Terminated (3) New  $\\longrightarrow$  Running  $\\longrightarrow$  Ready  $\\longrightarrow$  Waiting  $\\longrightarrow$  Running  $\\longrightarrow$  Ready  $\\longrightarrow$  Terminated (4) New  $\\longrightarrow$  Running  $\\longrightarrow$  Waiting  $\\longrightarrow$  Ready  $\\longrightarrow$  Waiting  $\\longrightarrow$  Running  $\\longrightarrow$  Terminated (5) New  $\\longrightarrow$  Waiting  $\\longrightarrow$  Running  $\\longrightarrow$  Ready  $\\longrightarrow$  Running  $\\longrightarrow$  Ready  $\\longrightarrow$  Terminated",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 5,
-    "unit_confidence": 0.6254,
-    "unit_margin": 0.0169,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      5,
-      9,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q13",
@@ -287,20 +129,7 @@
     "text": "Which of the following is not a task of a computer operating system? (1) selecting a memory frame for a page of a process (2) maintaining a list of free memory frames (3) maintaining a page table for each process (4) monitoring the usage of binary files on a hard disk (5) swapping processes between main memory and hard disk [See page four --- AL/2022(2023)/20/E-I -4-",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      4
-    ],
-    "unit": 5,
-    "unit_confidence": 0.551,
-    "unit_margin": 0.0217,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      5,
-      5,
-      5
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q14",
@@ -310,20 +139,7 @@
     "text": "The block size of a disk is 4KB. A portion of its File Allocation Table (FAT) at a particular time is shown below. The portion shown indicates the blocks of the average.py file as well. FAT <table><tr><td>200</td><td>202</td></tr><tr><td>201</td><td>200</td></tr><tr><td>202</td><td>\u22121</td></tr><tr><td>203</td><td>201</td></tr><tr><td>204</td><td>205</td></tr></table> Notes: I. The last block of a file is indicated by \u22121. II. The directory entry of a file contains the block number of the first block of the file. Which of the following gives the directory entry for the average.py file and the disk space allocated for the average.py file respectively? (1) 200, 12KB (2) 200, 16KB (3) 200, 20KB (4) 203, 16KB (5) 203, 20KB",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      4
-    ],
-    "unit": 5,
-    "unit_confidence": 0.5628,
-    "unit_margin": 0.0205,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      5,
-      9,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q15",
@@ -333,20 +149,7 @@
     "text": "Which of the following are Transport Layer protocols of the TCP/IP stack? A \u2013 Transmission Control Protocol (TCP) B \u2013 User Datagram Protocol (UDP) C \u2013 File Transfer Protocol (FTP) D \u2013 Internet Protocol (IP) (1) A and B only (2) A and C only (3) B and C only (4) B and D only (5) All A, B, C and D",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 6,
-    "unit_confidence": 0.7273,
-    "unit_margin": 0.0364,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      6
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q16",
@@ -356,20 +159,7 @@
     "text": "Which of the following statements is/are correct about MAC and IPv4 addresses? A \u2013 MAC addresses are 32 bits in length and are used in the network layer. B \u2013 MAC addresses are 48 bits in length and are used in the datalink layer. C \u2013 IPv4 addresses are 32 bits in length and are used in the network layer. (1) A only (2) B only (3) C only (4) A and C only (5) B and C only",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      5
-    ],
-    "unit": 6,
-    "unit_confidence": 0.4677,
-    "unit_margin": 0.0237,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      6
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q17",
@@ -379,20 +169,7 @@
     "text": "Which of the following is/are correct regarding a firewall? A \u2013 It can monitor and filter outgoing traffic from an internal network. B \u2013 It protects a network from unauthorized accesses. C \u2013 It can be a hardware, a software or a combination of both. (1) A only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      5
-    ],
-    "unit": 6,
-    "unit_confidence": 0.6531,
-    "unit_margin": 0.0194,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      9,
-      1
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q18",
@@ -402,20 +179,7 @@
     "text": "An organization with the assigned IP address block 193.1.1.0/24 needs to define eight subnets. Each subnet should provide for more than 25 IP addresses. Which of the following correctly lists the number of bits needed to identify the given network, the total number of bits needed to identify the subnets, and the number of bits needed to assign unique IP addresses for this requirement, respectively? (1) 24, 3,5 (2) 24, 5, 3 (3) 24, 27, 5 (4) 27, 3,5 (5) 27, 30, 2",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      3
-    ],
-    "unit": 6,
-    "unit_confidence": 0.5232,
-    "unit_margin": 0.0347,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q19",
@@ -425,20 +189,7 @@
     "text": "Which of the following statements is correct regarding network topologies? (1) In bus topology, a central network hub is used to connect all nodes. (2) In star topology, a linear cable is used to connect all nodes. (3) In ring topology, messages are sent only clockwise. (4) In ring topology, each node is directly connected only to two of its neighbors. (5) In mesh topology, each node is always connected to one other node only. [See page five --- AL/2022(2023)/20/E-I",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      4
-    ],
-    "unit": 6,
-    "unit_confidence": 0.622,
-    "unit_margin": 0.0372,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      6
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q20",
@@ -448,20 +199,7 @@
     "text": "Consider the seven layer OSI reference model and match each of the given layers labeled from P to S to the corresponding responsibility of it labeled from 1 to 4. <table><tr><th>Layer</th><th>Responsibility</th></tr><tr><td>P \u2013 Application layer</td><td>1 \u2013 binary transmission over the communication medium</td></tr><tr><td>Q \u2013 Physical layer</td><td>2 \u2013 route determination</td></tr><tr><td>R \u2013 Transport layer</td><td>3 \u2013 user services that include file transfer, remote access etc.</td></tr><tr><td>S \u2013 Network layer</td><td>4 \u2013 data delivery from process to process</td></tr></table> (1) P \u2013 1, Q \u2013 3, R \u2013 2, S \u2013 4 (2) P \u2013 2, Q \u2013 4, R \u2013 3, S \u2013 1 (3) P \u2013 3, Q \u2013 1, R \u2013 2, S \u2013 4 (4) P \u2013 3, Q \u2013 1, R \u2013 4, S \u2013 2 (5) P \u2013 4, Q \u2013 2, R \u2013 1, S \u2013 3",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      4
-    ],
-    "unit": 6,
-    "unit_confidence": 0.5352,
-    "unit_margin": 0.0251,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      6
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q21",
@@ -471,20 +209,7 @@
     "text": "Which of the following statements is/are correct? A \u2013 A digital signature ensures the authenticity of a message. B \u2013 In asymmetric key encryption, different keys are used for encryption and decryption. C \u2013 The encryption process transforms plaintext to ciphertext. (1) A only (2) B only (3) C only (4) A and B only (5) All A, B and C",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      5
-    ],
-    "unit": 6,
-    "unit_confidence": 0.6522,
-    "unit_margin": 0.0656,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      9,
-      3
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q22",
@@ -494,20 +219,7 @@
     "text": "Match each of the given data communication protocols labelled from P to T to the corresponding descriptions labelled from 1 to 5. <table><tr><th>Protocol</th><th>Description</th></tr><tr><td>P \u2013 Hyper Text Transfer Protocol (HTTP)</td><td>1 \u2013 provides directory lookup service for given web addresses and URLs</td></tr><tr><td>Q \u2013 Transmission Control Protocol (TCP)</td><td>2 \u2013 provides a very reliable data transfer service</td></tr><tr><td>R \u2013 Domain Name System (DNS) Protocol</td><td>3 \u2013 used in the world wide web</td></tr><tr><td>S \u2013 Internet Protocol (IP)</td><td>4 \u2013 provides a connection-less transport service</td></tr><tr><td>T \u2013 User Datagram Protocol (UDP)</td><td>5 \u2013 handles unique addressing of hosts in the Internet</td></tr></table> (1) P \u2013 2, Q \u2013 4, R \u2013 1, S \u2013 5, T \u2013 3 (2) P \u2013 2, Q \u2013 5, R \u2013 4, S \u2013 1, T \u2013 3 (3) P \u2013 3, Q \u2013 2, R \u2013 1, S \u2013 5, T \u2013 4 (4) P \u2013 3, Q \u2013 4, R \u2013 5, S \u2013 1, T \u2013 2 (5) P \u2013 4, Q \u2013 2, R \u2013 3, S \u2013 1, T \u2013 5",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      3
-    ],
-    "unit": 6,
-    "unit_confidence": 0.5508,
-    "unit_margin": 0.0229,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      6,
-      6,
-      6
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q23",
@@ -521,21 +233,7 @@
       "images/img-2.jpeg",
       "images/img-3.jpeg"
     ],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 7,
-    "unit_confidence": 0.3535,
-    "unit_margin": 0.0,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      5,
-      7,
-      9
-    ],
-    "llm_model": "meta-llama/llama-4-scout-17b-16e-instruct"
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q24",
@@ -545,20 +243,7 @@
     "text": "Consider the information system types in List A and the descriptive examples in List B. Identify the most suitable matching between the items in lists A and B. <table><tr><th>List A</th><th>List B</th></tr><tr><td>A1 - Decision Support System (DSS)</td><td>B1 - a system that allows to update, create, and manage the details in a news website</td></tr><tr><td>A2 - Content Management System (CMS)</td><td>B2 - a system that handles electronic fund transfers</td></tr><tr><td>A3 - Transaction Processing System (TPS)</td><td>B3 - a system that combines data and analytical tools for sales forecasting based on historical data</td></tr></table> (1) A1 \u2013 B1, A2 \u2013 B2, A3 \u2013 B3 (2) A1 \u2013 B2, A2 \u2013 B1, A3 \u2013 B3 (3) A1 \u2013 B2, A2 \u2013 B3, A3 \u2013 B1 (4) A1 \u2013 B3, A2 \u2013 B1, A3 \u2013 B2 (5) A1 \u2013 B3, A2 \u2013 B2, A3 \u2013 B1",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      4
-    ],
-    "unit": 7,
-    "unit_confidence": 0.5168,
-    "unit_margin": 0.053,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      1,
-      7
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q25",
@@ -568,20 +253,7 @@
     "text": "Which of the following statements is/are correct regarding System Development Life Cycle (SDLC) models? A \u2013 In the agile model, small portions of systematically developed working software are delivered to the client frequently. B \u2013 Late changes in the requirements can be easily accommodated in the waterfall model. C \u2013 Prototyping model can be practiced without client interactions. (1) A only (2) B only (3) C only (4) A and B only (5) A and C only",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 7,
-    "unit_confidence": 0.7173,
-    "unit_margin": 0.0547,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      9,
-      14
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q26",
@@ -591,20 +263,7 @@
     "text": "Non-functional requirements specify quality attributes of a system. Which of the following is an example for a non-functional requirement? (1) the email system should allow users to attach files (2) each page of the website must load within 4 seconds (3) administrator of the E-commerce website should be able to view a list of customers (4) a user of the online banking system should be able to view the last transactions (5) the ATM machine should allow users to print a receipt",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      2
-    ],
-    "unit": 7,
-    "unit_confidence": 0.5932,
-    "unit_margin": 0.0106,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      7,
-      7
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q27",
@@ -620,20 +279,7 @@
       "images/img-7.jpeg",
       "images/img-8.jpeg"
     ],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 7,
-    "unit_confidence": 0.4494,
-    "unit_margin": 0.0063,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      7,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q28",
@@ -643,20 +289,7 @@
     "text": "Which of the following statements is correct regarding software testing? (1) Integration testing is usually carried out before unit testing. (2) Black-box testing techniques are usually used in acceptance testing. (3) White box testing examines the behaviour of a software based only on the inputs to a system. (4) Unit testing examines the entire system's functionality as a whole. (5) System testing is usually carried out after the user acceptance testing. [See page seven] --- AL/2022(2023)/20/E-I -7-",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      2
-    ],
-    "unit": 7,
-    "unit_confidence": 0.431,
-    "unit_margin": 0.0053,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      9,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q29",
@@ -668,20 +301,7 @@
     "images": [
       "images/img-9.jpeg"
     ],
-    "tables": [],
-    "answer": [
-      5
-    ],
-    "unit": 8,
-    "unit_confidence": 0.4134,
-    "unit_margin": 0.0022,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      8,
-      8,
-      8
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q30",
@@ -691,20 +311,7 @@
     "text": "Which of the following shows the most suitable primary keys for Order and Order_Product relations? (1) Order: CusId, Order_Product: OrderId (2) Order: OrderId, Order_Product: OrderId (3) Order: OrderId, Order_Product: OrderId + ProdId (4) Order: CusId + SellerId, Order Product: ProdId (5) Order: OrderId + CusId, Order_Product: OrderId [See page eight] --- AL/2022(2023)/20/E-I -8-",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      3
-    ],
-    "unit": 8,
-    "unit_confidence": 0.47,
-    "unit_margin": 0.0134,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      8,
-      8,
-      8
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q31",
@@ -714,20 +321,7 @@
     "text": "What will be the output after executing the following SQL statement? SELECT Customer.Fname, Customer.Lname, Order.OrderId FROM Customer INNER JOIN Order ON Customer.CusId = Order.CusId WHERE Customer.Location=\"Galle\"; (1) <table><tr><th>Fname</th><th>Lname</th><th>OrderId</th></tr><tr><td>Kalum</td><td>Gamage</td><td>A001</td></tr><tr><td>Kalum</td><td>Gamage</td><td>A003</td></tr><tr><td>Shiromi</td><td>Silva</td><td>A002</td></tr></table> (2) <table><tr><th>Fname</th><th>Lname</th><th>OrderId</th></tr><tr><td>Kalum</td><td>Gamage</td><td>A004</td></tr><tr><td>Kalum</td><td>Perea</td><td>A001</td></tr><tr><td>Kalum</td><td>Gamage</td><td>A003</td></tr><tr><td>Shiromi</td><td>Silva</td><td>A002</td></tr></table> (3) <table><tr><th>Fname</th><th>Lname</th><th>OrderId</th></tr><tr><td>Kalum</td><td>Gamage</td><td>A001</td></tr><tr><td>Kalum</td><td>Perera</td><td>A003</td></tr><tr><td>Shiromi</td><td>Silva</td><td>A002</td></tr></table> (4) <table><tr><th>Lname</th><th>Fname</th><th>OrderId</th></tr><tr><td>Gamage</td><td>Kalum</td><td>A001</td></tr><tr><td>Gamage</td><td>Kalum</td><td>A003</td></tr><tr><td>Silva</td><td>Shiromi</td><td>A002</td></tr></table> (5) <table><tr><th>Fname</th><th>Lname</th><th>OrderId</th></tr><tr><td>Kalum</td><td>Gamage</td><td>A001</td></tr><tr><td>Shiromi</td><td>Silva</td><td>A002</td></tr></table>",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 7,
-    "unit_confidence": 0.6867,
-    "unit_margin": 0.0135,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      7,
-      9,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q32",
@@ -737,21 +331,7 @@
     "text": "Which of the following is correct regarding the Order relation? (1) CusId attribute uniquely identifies each tuple in the relation. (2) The relation is in First Normal Form (1NF). (3) The relation is in Second Normal Form (2NF). (4) Orders of each customer are handled by a unique salesperson. (5) The relation consists of a composite primary key.",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      3
-    ],
-    "unit": 8,
-    "unit_confidence": 0.0837,
-    "unit_margin": 0.0031,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      8,
-      4,
-      8
-    ],
-    "llm_model": "llama-3.1-8b-instant"
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q33",
@@ -761,20 +341,7 @@
     "text": "Which of the following statements is/are correct regarding the normalization concept? A \u2013 In first normal form, atomic attributes are removed from a relation. B \u2013 In second normal form, partial dependency of attributes on the primary key are removed. C \u2013 In third normal form, transitive dependency of attributes are removed. (1) B only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      4
-    ],
-    "unit": 8,
-    "unit_confidence": 0.6778,
-    "unit_margin": 0.0183,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      8,
-      7,
-      8
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q34",
@@ -784,20 +351,7 @@
     "text": "Which of the following statements is/are correct regarding Entity Relationship (ER) modelling? A \u2013 A weak entity is dependent on another entity. B \u2013 A derived attribute is represented as an attribute in a relation. C \u2013 An entity can contain a multi-value attribute and a composite attribute at the same time. (1) A only (2) B only (3) A and C only (4) B and C only (5) All A, B and C [See page nine --- AL/2022(2023)/20/E-I",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      3
-    ],
-    "unit": 8,
-    "unit_confidence": 0.4113,
-    "unit_margin": 0.004,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      8,
-      8,
-      7
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q35",
@@ -809,21 +363,7 @@
     "images": [
       "images/img-10.jpeg"
     ],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 8,
-    "unit_confidence": 0.386,
-    "unit_margin": 0.0057,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      8,
-      8,
-      8
-    ],
-    "llm_model": "llama-3.3-70b-versatile"
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q36",
@@ -835,20 +375,7 @@
     "images": [
       "images/img-11.jpeg"
     ],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 9,
-    "unit_confidence": 0.5071,
-    "unit_margin": 0.0049,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      9,
-      9,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q37",
@@ -858,21 +385,7 @@
     "text": "What would be the output of the following Python code if the input was 25? x = int(input()) x = (x % (x - 21)) **3 print (x) (1) 0 (2) 1 (3) 3 (4) 12 (5) 25",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      2
-    ],
-    "unit": 9,
-    "unit_confidence": 0.3864,
-    "unit_margin": 0.0006,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      9,
-      9,
-      9
-    ],
-    "llm_model": "meta-llama/llama-4-scout-17b-16e-instruct"
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q38",
@@ -882,21 +395,7 @@
     "text": "What would be the output of the following Python code? def fun(para1, para2): x=foo(para2, para1) return x def foo(para3, para4): return para3 - para4 result=fun(2, 4) print(\"Result is \" + str(result)) (1) Result is 0 (2) Result is 2 (3) Result is -2 (4) Result is (2, 4) (5) Result is +2",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      2
-    ],
-    "unit": 9,
-    "unit_confidence": 0.2319,
-    "unit_margin": 0.0053,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      9,
-      9,
-      9
-    ],
-    "llm_model": "llama-3.1-8b-instant"
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q39",
@@ -906,20 +405,7 @@
     "text": "What would be the output of the following Python code? def foo(name, age=18, address=\"Kandy\"): print (name, address, age) foo(\"Nimal\", 25, \"Colombo\") (1) Nimal Colombo 25 (2) Nimal, Colombo, 25 (3) Nimal, Kandy, 18 (4) Nimal Kandy 18 (5) Nimal 18 Kandy",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 9,
-    "unit_confidence": 0.4517,
-    "unit_margin": 0.0003,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      9,
-      9,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q40",
@@ -929,20 +415,7 @@
     "text": "What would be the output of the following Python code? numbers=[10, 20, 30, 40, 50] numbers.pop(1) numbers.append(60) numbers.pop(2) print(numbers) (1) [10, 50, 60] (2) [10, 20, 40, 60] (3) [10, 30, 50, 60] (4) [20, 30, 40, 50] (5) [20, 30, 50, 60]",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      3
-    ],
-    "unit": 9,
-    "unit_confidence": 0.5876,
-    "unit_margin": 0.006,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      9,
-      9,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q41",
@@ -952,20 +425,7 @@
     "text": "What would be the output of the following Python code? val = 9 for i in range(5): for j in range(2, 3, 1): val += 1 if (val % 2) == 0: continue val += 2 else: val += 2 print(val) (1) 18 (2) 24 (3) 29 (4) 38 (5) 39 [See page eleven --- AL/2022(2023)/20/E-I -11-",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      1
-    ],
-    "unit": 9,
-    "unit_confidence": 0.4856,
-    "unit_margin": 0.0017,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      9,
-      9,
-      9
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q42",
@@ -975,21 +435,7 @@
     "text": "Which of the following is/are correct regarding Python functions? A \u2013 A Python function can return a data structure that contains multiple values. B \u2013 A Python function can be used without passing any parameters to it. C \u2013 Parameters can be passed to a python function by value or by reference. (1) B only (2) C only (3) A and C only (4) B and C only (5) All A, B and C",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      5
-    ],
-    "unit": 9,
-    "unit_confidence": 0.2168,
-    "unit_margin": 0.0004,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      9,
-      9,
-      9
-    ],
-    "llm_model": "llama-3.3-70b-versatile"
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q43",
@@ -999,20 +445,7 @@
     "text": "Which of the following HTML tags can be used to change the appearance of a word in a text? (1) <i>, <em>, <li>, <br> (2) <b>, <i>, <em>, <h1> (3) <b>, <em>, <sup>, <li> (4) <i>, <u>, <br>, <sup>, <sup>, <sup> (5) <u>, <i>, <i>, <ol>, <b> (44. What would be the output of the following HTML code segment? <dl> <dt> Vegetable </dt> <dd> Potato </dd> <dt> Fruit </dt> <dd> Orange </dd> </dd> </dl> (1) \u2022 Vegetable \u2022 Potato \u2022 Fruit \u2022 Orange (2) Vegetable Potato Fruit Orange (3) \u2022 Vegetable Potato \u2022 Fruit Orange (4) 1. Vegetable Potato",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      2
-    ],
-    "unit": 10,
-    "unit_confidence": 0.4397,
-    "unit_margin": 0.0187,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      10,
-      10,
-      10
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q02",
@@ -1022,21 +455,7 @@
     "text": "Fruit Orange (5) \u2022 Vegetable - Potato \u2022 Fruit - Orange",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      5
-    ],
-    "unit": 3,
-    "unit_confidence": 0.3717,
-    "unit_margin": 0.0011,
-    "needs_review": false,
-    "unit_source": "llm",
-    "top_units": [
-      11,
-      12,
-      3
-    ],
-    "llm_model": "meta-llama/llama-4-scout-17b-16e-instruct"
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q45",
@@ -1046,20 +465,7 @@
     "text": "Which of the following statements is/are correct regarding HTML and CSS? A \u2013 CSS can be used to describe how HTML elements are to be displayed on screen. B \u2013 External CSS can be used to define the style for many HTML pages. C \u2013 Inline CSS can be used to apply a style to a single HTML element. (1) A only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      5
-    ],
-    "unit": 10,
-    "unit_confidence": 0.5643,
-    "unit_margin": 0.0252,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      10,
-      10,
-      10
-    ]
+    "tables": []
   },
   {
     "question_id": "2022_P1_Q46",
@@ -1069,19 +475,6 @@
     "text": "Which of the following HTML code line can be used to create a hyperlink to the website of the National Institute of Education? (The URL of the website is http://nie.lk) (1) <a src=\"http://nie.lk\">National Institute of Education</a> (2) <a href=\"http://nie.lk\">National Institute of Education</a> (3) <a img=\"http://nie.lk\">National Institute of Education</a> (4) <a href=\"http://nie.lk\"></a>National Institute of Education</a> (5) <a src=\"http://nie.lk</a>National Institute of Education",
     "marks": 2,
     "images": [],
-    "tables": [],
-    "answer": [
-      2
-    ],
-    "unit": 10,
-    "unit_confidence": 0.6753,
-    "unit_margin": 0.0045,
-    "needs_review": false,
-    "unit_source": "retrieval",
-    "top_units": [
-      10,
-      9,
-      1
-    ]
+    "tables": []
   }
 ]

@@ -1,0 +1,303 @@
+{
+  "1": {
+    "question_id": "2022_P1_Q01",
+    "answers": [
+      3
+    ]
+  },
+  "2": {
+    "question_id": "2022_P1_Q02",
+    "answers": [
+      5
+    ]
+  },
+  "3": {
+    "question_id": "2022_P1_Q03",
+    "answers": [
+      4
+    ]
+  },
+  "4": {
+    "question_id": "2022_P1_Q04",
+    "answers": [
+      1
+    ]
+  },
+  "5": {
+    "question_id": "2022_P1_Q05",
+    "answers": [
+      4
+    ]
+  },
+  "6": {
+    "question_id": "2022_P1_Q06",
+    "answers": [
+      5
+    ]
+  },
+  "7": {
+    "question_id": "2022_P1_Q07",
+    "answers": [
+      3
+    ]
+  },
+  "8": {
+    "question_id": "2022_P1_Q08",
+    "answers": [
+      3
+    ]
+  },
+  "9": {
+    "question_id": "2022_P1_Q09",
+    "answers": [
+      2
+    ]
+  },
+  "10": {
+    "question_id": "2022_P1_Q10",
+    "answers": [
+      5
+    ]
+  },
+  "11": {
+    "question_id": "2022_P1_Q11",
+    "answers": [
+      2,
+      4
+    ]
+  },
+  "12": {
+    "question_id": "2022_P1_Q12",
+    "answers": [
+      1
+    ]
+  },
+  "13": {
+    "question_id": "2022_P1_Q13",
+    "answers": [
+      4
+    ]
+  },
+  "14": {
+    "question_id": "2022_P1_Q14",
+    "answers": [
+      4
+    ]
+  },
+  "15": {
+    "question_id": "2022_P1_Q15",
+    "answers": [
+      1
+    ]
+  },
+  "16": {
+    "question_id": "2022_P1_Q16",
+    "answers": [
+      5
+    ]
+  },
+  "17": {
+    "question_id": "2022_P1_Q17",
+    "answers": [
+      5
+    ]
+  },
+  "18": {
+    "question_id": "2022_P1_Q18",
+    "answers": [
+      3
+    ]
+  },
+  "19": {
+    "question_id": "2022_P1_Q19",
+    "answers": [
+      4
+    ]
+  },
+  "20": {
+    "question_id": "2022_P1_Q20",
+    "answers": [
+      4
+    ]
+  },
+  "21": {
+    "question_id": "2022_P1_Q21",
+    "answers": [
+      5
+    ]
+  },
+  "22": {
+    "question_id": "2022_P1_Q22",
+    "answers": [
+      3
+    ]
+  },
+  "23": {
+    "question_id": "2022_P1_Q23",
+    "answers": [
+      1
+    ]
+  },
+  "24": {
+    "question_id": "2022_P1_Q24",
+    "answers": [
+      4
+    ]
+  },
+  "25": {
+    "question_id": "2022_P1_Q25",
+    "answers": [
+      1
+    ]
+  },
+  "26": {
+    "question_id": "2022_P1_Q26",
+    "answers": [
+      2
+    ]
+  },
+  "27": {
+    "question_id": "2022_P1_Q27",
+    "answers": [
+      1
+    ]
+  },
+  "28": {
+    "question_id": "2022_P1_Q28",
+    "answers": [
+      2
+    ]
+  },
+  "29": {
+    "question_id": "2022_P1_Q29",
+    "answers": [
+      5
+    ]
+  },
+  "30": {
+    "question_id": "2022_P1_Q30",
+    "answers": [
+      3
+    ]
+  },
+  "31": {
+    "question_id": "2022_P1_Q31",
+    "answers": [
+      1
+    ]
+  },
+  "32": {
+    "question_id": "2022_P1_Q32",
+    "answers": [
+      3
+    ]
+  },
+  "33": {
+    "question_id": "2022_P1_Q33",
+    "answers": [
+      4
+    ]
+  },
+  "34": {
+    "question_id": "2022_P1_Q34",
+    "answers": [
+      3
+    ]
+  },
+  "35": {
+    "question_id": "2022_P1_Q35",
+    "answers": [
+      1
+    ]
+  },
+  "36": {
+    "question_id": "2022_P1_Q36",
+    "answers": [
+      1
+    ]
+  },
+  "37": {
+    "question_id": "2022_P1_Q37",
+    "answers": [
+      2
+    ]
+  },
+  "38": {
+    "question_id": "2022_P1_Q38",
+    "answers": [
+      2
+    ]
+  },
+  "39": {
+    "question_id": "2022_P1_Q39",
+    "answers": [
+      1
+    ]
+  },
+  "40": {
+    "question_id": "2022_P1_Q40",
+    "answers": [
+      3
+    ]
+  },
+  "41": {
+    "question_id": "2022_P1_Q41",
+    "answers": [
+      1
+    ]
+  },
+  "42": {
+    "question_id": "2022_P1_Q42",
+    "answers": [
+      5
+    ]
+  },
+  "43": {
+    "question_id": "2022_P1_Q43",
+    "answers": [
+      2
+    ]
+  },
+  "44": {
+    "question_id": "2022_P1_Q44",
+    "answers": [
+      2
+    ]
+  },
+  "45": {
+    "question_id": "2022_P1_Q45",
+    "answers": [
+      5
+    ]
+  },
+  "46": {
+    "question_id": "2022_P1_Q46",
+    "answers": [
+      2
+    ]
+  },
+  "47": {
+    "question_id": "2022_P1_Q47",
+    "answers": [
+      3
+    ]
+  },
+  "48": {
+    "question_id": "2022_P1_Q48",
+    "answers": [
+      4
+    ]
+  },
+  "49": {
+    "question_id": "2022_P1_Q49",
+    "answers": [
+      5
+    ]
+  },
+  "50": {
+    "question_id": "2022_P1_Q50",
+    "answers": [
+      4
+    ]
+  }
+}

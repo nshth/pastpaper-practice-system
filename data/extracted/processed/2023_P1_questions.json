@@ -1,0 +1,540 @@
+[
+  {
+    "question_id": "2023_P1_Q05",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 5,
+    "text": "Which of the following will cause the CPU to execute a different set of instructions? $A$ \u2013 a context switch $B$ \u2013 an interrupt $C$ \u2013 user selecting the shutdown option in the computer (1) $A$ only (2) $B$ only (3) $C$ only (4) $A$ and $B$ only (5) All $A, B$ and $C$",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q06",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 6,
+    "text": "A program runs fastest when the data it requires are in the (1) hard disk. (2) L1 cache. (3) L2 cache. (4) magnetic tape. (5) main memory.",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q07",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 7,
+    "text": "What is the correct binary equivalent of decimal $13.125_{10}$? (1) 1100.001 (2) 1100.100 (3) 1101.001 (4) 1101.100 (5) 1101.101",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q08",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 8,
+    "text": "Which of the following are equivalent to octal $674_{8}$? $A - 110111100_{2}$ $B - 444_{10}$ $C - 2\\mathrm{BC}_{16}$ (1) $A$ only (2) $A$ and $B$ only (3) $A$ and $C$ only (4) $B$ and $C$ only (5) All $A, B$ and $C$",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q09",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 9,
+    "text": "The address of an instruction was shown as 5A1 in hexadecimal. What is that address in decimal? (1) 41 (2) 1441 (3) 1457 (4) 2641 (5) 23056",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q10",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 10,
+    "text": "A document contains 2048 characters including spaces and line-breaks. How many bits are needed to encode this document in ASCII also using the parity bits? (1) 2048 (2) $2048 \\times 2$ (3) $2048 \\times 7$ (4) $2048 \\times 8$ (5) $2048 / 8$",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q11",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 11,
+    "text": "What is the correct 2's complement binary representation of decimal $-49_{10}$ using 8-bits? (1) 00110001 (2) 01100010 (3) 10011110 (4) 11001111 (5) 11100010",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q12",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 12,
+    "text": "Consider the following logic circuit in which $\\mathbf{X}$ indicates a two-input logic gate. ![img-0.jpeg](images/img-0.jpeg) Which of the following should $\\mathbf{X}$ be so that when $\\mathrm{A} = 0$ and $\\mathrm{B} = 1$, the output C would be 0? I \u2013 a NAND gate II \u2013 a NOR gate III \u2013 an XOR gate (1) I only (2) I and II only (3) I and III only (4) II and III only (5) All I, II and III",
+    "marks": 2,
+    "images": [
+      "images/img-0.jpeg"
+    ],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q13",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 13,
+    "text": "Which of the following is the simplified form of the Boolean expression $\\mathrm{X}(\\overline{\\mathrm{X}} + \\mathrm{Y})$? (1) X (2) Y (3) XY (4) $\\overline{X} Y$ (5) X + Y",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q14",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 14,
+    "text": "A program in execution in a computer is called a process. Which of the following is a possible state transition sequence of such a process? (1) New \u2192 Ready \u2192 Running \u2192 Terminated (2) New \u2192 Blocked \u2192 Terminated (3) New \u2192 Ready \u2192 Blocked \u2192 Running \u2192 Terminated (4) New \u2192 Running \u2192 Ready \u2192 Running \u2192 Terminated (5) New \u2192 Blocked \u2192 Ready \u2192 Running \u2192 Terminated [See page three --- AL/2023(2024)/20/E-I -3-",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q15",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 15,
+    "text": "Amara powers on the computer and starts a spreadsheet application. Then he also opens a web browser. Which of the following are possible execution sequences on the processor of his computer? (1) BIOS \u2192 OS \u2192 spreadsheet process \u2192 OS \u2192 web browser process \u2192 OS \u2192 ... (2) BIOS \u2192 spreadsheet process \u2192 OS \u2192 web browser process \u2192 OS \u2192 spreadsheet process \u2192 ... (3) BIOS \u2192 spreadsheet process \u2192 web browser process \u2192 OS \u2192 ... (4) BIOS \u2192 OS \u2192 spreadsheet process \u2192 web browser process \u2192 OS \u2192 ... (5) BIOS \u2192 OS \u2192 spreadsheet process \u2192 web browser process \u2192 spreadsheet process \u2192 web browser process \u2192 ...",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q16",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 16,
+    "text": "Which of the following statements are true? A \u2013 A firewall acts as a packet filter inspecting all the packets entering a network. B \u2013 A malware that misleads the users by disguising itself as a standard program is termed a Trojan Horse. C \u2013 A strong password should have a combination of uppercase and lowercase letters, numbers and symbols of sufficient length. (1) A only (2) B only (3) C only (4) A and B only (5) All A, B and C",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q17",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 17,
+    "text": "Which of the following statements are true? A \u2013 One of the uses of encryption is to ensure confidentiality of transmitted data. B \u2013 Every user needs to have a pair of dissimilar keys when using Asymmetric Key Encryption. C \u2013 Users must share a common key when exchanging information using Symmetric Key Encryption. (1) A only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q18",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 18,
+    "text": "Which of the following is considered as an erroneously received byte in an even parity system? (1) 01010101 (2) 10010011 (3) 10110010 (4) 11011001 (5) 11010111",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q19",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 19,
+    "text": "Match the Devices labelled from A to E to the corresponding Descriptions labelled from 1 to 5. <table><tr><th>Device</th></tr><tr><td>A. Client</td></tr><tr><td>B. Hub</td></tr><tr><td>C. Router</td></tr><tr><td>D. Server</td></tr><tr><td>E. Switch</td></tr></table> <table><tr><th>Description</th></tr><tr><td>1 \u2013 stores network programs and data files for the users to access</td></tr><tr><td>2 \u2013 a connecting device between Local Area Networks (LAN) and Wide Area Networks (WAN)</td></tr><tr><td>3 \u2013 when a message is received, this transmits it only on the port to which the destination computer is attached</td></tr><tr><td>4 \u2013 requests services and content from other computers</td></tr><tr><td>5 \u2013 when a message is received, this broadcasts it on all ports to all attached hosts</td></tr></table> (1) A \u2013 1, B \u2013 5, C \u2013 4, D \u2013 2, E \u2013 3 (2) A \u2013 2, B \u2013 4, C \u2013 3, D \u2013 5, E \u2013 1 (3) A \u2013 3, B \u2013 2, C \u2013 1, D \u2013 4, E \u2013 5 (4) A \u2013 4, B \u2013 5, C \u2013 2, D \u2013 1, E \u2013 3 (5) A \u2013 5, B \u2013 1, C \u2013 2, D \u2013 3, E \u2013 4 [See page four] --- AL/2023(2024)/20/E-I -4-",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q20",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 20,
+    "text": "Select the answer containing the correct replacements for  $\\boxed{\\mathbf{A}}$  and  $\\boxed{\\mathbf{B}}$  in the following paragraph: In the Internet, a host is identified by its IP address. In IPv4, each IP address consists of  $\\boxed{\\mathbf{A}}$  bits to identify a host. The newer version named IPv6 consists of  $\\boxed{\\mathbf{B}}$  bits in an IP address. (1)  $\\mathbf{A} = 32, \\mathbf{B} = 48$ (2)  $\\mathbf{A} = 32, \\mathbf{B} = 128$ (3)  $\\mathbf{A} = 48, \\mathbf{B} = 32$ (4)  $\\mathbf{A} = 48, \\mathbf{B} = 128$ (5)  $\\mathbf{A} = 128, \\mathbf{B} = 32$",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q21",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 21,
+    "text": "Which of the following statements regarding DNS (Domain Name System) are correct? $A$ \u2013 It maps web addresses to IP addresses and vice versa. $B$ \u2013 HTTP uses the services provided by the DNS. $C$ \u2013 DNS maintains a hierarchy of domain names. (1)  $A$  only (2)  $A$  and  $B$  only (3)  $A$  and  $C$  only (4)  $B$  and  $C$  only (5) All  $A, B$  and  $C$",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q22",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 22,
+    "text": "Which of the following statements regarding IP addresses are correct? $A$ \u2013 In class C networks, first octet value ranges from 192 through 223. $B$ \u2013 IPv4 can assign addresses up to 4 million devices. $C - 192.168.0.0 - 192.168.255.255$  is a private IP address range. (1)  $A$  only (2)  $B$  only (3)  $C$  only (4)  $A$  and  $B$  only (5)  $A$  and  $C$  only",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q23",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 23,
+    "text": "If Suresh wants to send an encrypted message to be read only by Amara using asymmetric key encryption, then (1) Suresh should encrypt his message using his public key. (2) Suresh should encrypt his message using his private key. (3) Suresh should encrypt his message using Amara's public key. (4) Suresh should encrypt his message using Amara's private key. (5) Suresh should encrypt his message using both private and public keys of Amara.",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q24",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 24,
+    "text": "Choose the option containing most suitable deployment types for the following systems: $A$ \u2013 A new system to replace an existing air traffic control system at an airport $B$ \u2013 A system for the customers of an island-wide supermarket chain to order goods online $C$ \u2013 A system for the public to enter comments regarding the service experienced by them at an office (1)  $A$  - direct,  $B$  - direct,  $C$  - parallel (2)  $A$  - direct,  $B$  - pilot,  $C$  - parallel (3)  $A$  - parallel,  $B$  - pilot,  $C$  - direct (4)  $A$  - parallel,  $B$  - parallel,  $C$  - parallel (5)  $A$  - parallel,  $B$  - parallel,  $C$  - pilot",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q25",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 25,
+    "text": "Which of the following is a non-functional requirement for an e-commerce site? (1) Being able to add items to the shopping cart (2) Being able to make payments online (3) Being able to view the items based on item category (4) Each item to be shown with a small image and a description (5) The e-commerce site to be accessible through popular web browsers",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q26",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 26,
+    "text": "During which of the following is an application tested by its developers in a setting that closely resembles its intended deployment hardware, software, and network configuration environment? (1) Acceptance testing (2) Integration testing (3) Parallel testing (4) System testing (5) Unit testing [See page five --- AL/2023(2024)/20/E-I",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q27",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 27,
+    "text": "A company considers developing a new software application for its use. The application is expected to re-engineer internal processes, improve collaboration, and enhance productivity. However, during the feasibility analysis, it was identified that the new software may face some resistance from employees who are accustomed to the existing processes. Which component of the feasibility study would have helped to get that information? (1) economic feasibility (2) legal feasibility (3) operational feasibility (4) schedule feasibility (5) technical feasibility",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q28",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 28,
+    "text": "Select the option which includes most suitable replacements for the labels  $\\mathbb{P}$  to  $\\mathbb{S}$  in the following Data Flow Diagram of a library management system. ![img-1.jpeg](images/img-1.jpeg) (1)  $\\mathbb{P}$  - keyword, (2)  $\\mathbb{P}$  - keyword, (3)  $\\mathbb{P}$  - keyword, (4)  $\\mathbb{P}$  - member ID, (5)  $\\mathbb{P}$  - member ID, $\\mathbb{O}$  - member ID, $\\mathbb{O}$  - keyword, $\\mathbb{O}$  - keyword, $\\mathbb{O}$  - keyword, (0) - member ID, $\\mathbb{R}$  - book details, $\\mathbb{R}$  - book details, $\\mathbb{R}$  - book details, $\\mathbb{R}$  - member ID $\\mathbb{O}$  - member ID, $\\mathbb{R}$  - book details, $\\mathbb{S}$  - book details",
+    "marks": 2,
+    "images": [
+      "images/img-1.jpeg"
+    ],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q29",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 29,
+    "text": "Which of the following is incorrect about the waterfall model of software development? (1) It allows developers to collect and implement requirements throughout the project. (2) It is not an iterative model. (3) It is suitable for software with well defined requirements. (4) It is easy to estimate the resources needed for a project. (5) No working product is available until the latter stages of the project.",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q30",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 30,
+    "text": "In addition to the required features, which of the following should also be considered when a government institution selects a Commercial Off-The-Shelf (COTS) software to be implemented island wide? $A$  - cost to deploy, maintain, upgrade and modify $B$  - ease of integration with existing systems $C$  - after sales service from the vendor (1)  $A$  only (2)  $A$  and  $B$  only (3)  $A$  and  $C$  only (4)  $B$  and  $C$  only (5) All  $A, B$  and  $C$ [See page six --- AL/2023(2024)/20/E-I -6-",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q31",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 31,
+    "text": "Match the given entity attributes labelled from A to D to the corresponding descriptions labelled from 1 to 4. <table><tr><th colspan=\"2\">Entity attribute</th><th colspan=\"2\">Description</th></tr><tr><td>A</td><td>Composite attribute</td><td>1</td><td>an attribute that cannot be broken down into smaller components</td></tr><tr><td>B</td><td>Simple attribute</td><td>2</td><td>an attribute that can be broken down into component parts</td></tr><tr><td>C</td><td>Multivalued attribute</td><td>3</td><td>an attribute whose values can be calculated from related attribute values</td></tr><tr><td>D</td><td>Derived attribute</td><td>4</td><td>an attribute that may take more than one value</td></tr></table> (1) A-2, B-1, C-3, D-4 (2) A-2, B-1, C-4, D-3 (3) A-3, B-4, C-2, D-1 (4) A-4, B-2, C-3, D-1 (5) A-4, B-3, C-1, D-2",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q32",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 32,
+    "text": "Consider the following Employee Relation: <table><tr><th>Employee_ID</th><th>Employee_Name</th><th>Salary</th></tr><tr><td>1001</td><td>John</td><td>60000</td></tr><tr><td>1002</td><td>Hari</td><td>55000</td></tr><tr><td>1003</td><td>Mahas</td><td>70000</td></tr><tr><td>1004</td><td>Sarath</td><td>65000</td></tr><tr><td>1005</td><td>Rajah</td><td>75000</td></tr></table> What would be the output of the following SQL query when it is applied on the Employee relation? SELECT COUNT(*) FROM Employee WHERE Salary &gt; ANY (SELECT Salary FROM Employee); (1) 3 (2) 4 (3) 5 (4) 6 (5) 10",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q33",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 33,
+    "text": "Consider the given SQL statements to create two database tables named LENDING and STUDENT: CREATE TABLE LENDING (BOOK_NUMBER VARCHAR(10) NOTNULL, BOOK_NAME VARCHAR(20) NOTNULL, AUTHOR VARCHAR(25) NOTNULL, DESCRIPTION VARCHAR(75) NOTNULL, ISSUED_DATE DATE, STUDENT_ID CHAR(5) NOTNULL, PRIMARY KEY(BOOK_NUMBER)); CREATE TABLE STUDENT (STUDENT_ID CHAR(5) NOTNULL, NAME VARCHAR(25) NOTNULL, BIRTHDAY DATE NOTNULL, ADDRESS VARCHAR(25) NOTNULL, PROVINCE CHAR(10), PRIMARY KEY(STUDENT_ID)); Which of the following statements are correct? A \u2013 STUDENT_ID is a foreign key in the LENDING table. B \u2013 It is compulsory to input data to the DATE data type fields in both tables. C \u2013 STUDENT_ID can contain only five English letters. (1) A only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C [See page seven] --- AL/2023(2024)/20/E-I",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q34",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 34,
+    "text": "When the Employee entity of the following diagram is represented in a database which of the following should not be included? (1) Date_of_Birth (2) Designation (3) Employee_Name (4) Employee_Number (5) Qualifications ![img-2.jpeg](images/img-2.jpeg)",
+    "marks": 2,
+    "images": [
+      "images/img-2.jpeg"
+    ],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q35",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 35,
+    "text": "Which of the listed relations will be obtained if the following ER diagram is correctly mapped into the relational model? ![img-3.jpeg](images/img-3.jpeg) A \u2013 Lecturer(NIC, LecturerName, DOB, Address) B \u2013 Lecturer(NIC, LecturerName, DOB, Address, CourseId) C \u2013 Teaches(NIC, CourseId, Hours) D \u2013 Course(CourseId, CourseName, Hours, NIC) (1) A and B only (2) A and C only (3) A and D only (4) B and C only (5) A, C and D only",
+    "marks": 2,
+    "images": [
+      "images/img-3.jpeg"
+    ],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q36",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 36,
+    "text": "Which of the following gives a correct matching between ER diagram components and the relational model? (1) Entity \u2192 Field, Attribute \u2192 Table, Unique attribute \u2192 Primary key, Multivalued attribute \u2192 Table (2) Entity \u2192 Table, Attribute \u2192 Field, Unique attribute \u2192 Primary key, Multivalued attribute \u2192 Table (3) Entity \u2192 Table, Attribute \u2192 Field, Unique attribute \u2192 Table, Multivalued attribute \u2192 Primary key (4) Entity \u2192 Table, Attribute \u2192 Primary key, Unique attribute \u2192 Primary key, Multivalued attribute \u2192 Table (5) Entity \u2192 Table, Attribute \u2192 Table, Unique attribute \u2192 Primary key, Multivalued attribute \u2192 Primary key - Consider the following relations to answer questions 37 and 38. adviser (adId, adName, adGender, adNIC, adPhone) farmer (farmerId, farmerName, farmerAddress, farmerPhone) task (taskId, taskName, farmerId, startDate, endDate) advises (adId, taskId, startDate, endDate) Note: adNIC \u2013 The National Identity Card number of an adviser",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q37",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 37,
+    "text": "Which of the following statements are correct? A \u2013 One farmer can have many tasks. B \u2013 One adviser can advise many tasks. C \u2013 For one task, a farmer can have many advisers. (1) A only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C [See page eight --- AL/2023(2024)/20/E-I",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q38",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 38,
+    "text": "Which of the following statements are correct with respect to the given relations? $A-$ All relations are in $3^{\\mathrm{rd}}$ normal form. $B-$ The startDate attribute in the task relation is a derived attribute. $C-$ adNIC is a candidate key in the adviser relation. (1) $A$ only (2) $A$ and $B$ only (3) $A$ and $C$ only (4) $B$ and $C$ only (5) All $A, B$ and $C$",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q39",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 39,
+    "text": "What would be the output of the following Python code, if $a = 10$, $b = 4$, and $c = 7$? ans = a % b + c // (a-b) print(ans) (1) 3 (2) 5 (3) 7 (4) 9 (5) 11",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q40",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 40,
+    "text": "What would be the value of the 'result' variable after executing the following Python code? def func1(a,b): return a+b def func2(a,b): return a*b result = func1(3,func2(2,4)) (1) 11 (2) 12 (3) 14 (4) 15 (5) 20",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q41",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 41,
+    "text": "What would be the output of the following Python code, when it gets executed? def modify_string(input_string): input_string += \" World\" text = \"Hello\" modify_string(text) print(text) (1) Hello (2) Hello Hello (3) Hello World (4) World (5) World Hello",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q42",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 42,
+    "text": "What would be the output of the following Python code? original_list = [1, 2, 3, 4, 5] new_list = original_list.copy() new_list.clear() original_list.append(6) print(original_list) print(new_list) (1) [ ] [ ] (2) [6] [ ] (3) [6] [6] (4) [1, 2, 3, 4, 5, 6] [ ] [ ] (5) [ ] [1, 2, 3, 4, 5, 6] [See page nine --- AL/2023(2024)/20/E-I",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q43",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 43,
+    "text": "How many '*'s does this program output? ```txt i = 7 while i &gt; 0: i -= 3 print('*') if i &lt;= 2: break else: print('*') ``` (1) 1 (2) 3 (3) 5 (4) 7 (5) 9",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q44",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 44,
+    "text": "Which of the data structures among Dictionary, List and Tuple in Python could be used to store a collection of key-value pairs where the keys must be unique? (1) Dictionary only (2) List only (3) Tuple only (4) Dictionary and List only (5) List and Tuple only",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q45",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 45,
+    "text": "What would be the output of the following python code? ```python for i in range(1, 4): for j in range(1, i + 1): print(j * i, end=' ') print() ``` (1) 1 (2) 1 (3) 1 (4) 1 2 3 (5) 1 2",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q02",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 2,
+    "text": "2",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q02",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 2,
+    "text": "4",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q02",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 2,
+    "text": "4",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q02",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 2,
+    "text": "4 6",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q03",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 3,
+    "text": "3 3",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q03",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 3,
+    "text": "6",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q03",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 3,
+    "text": "6 9",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q03",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 3,
+    "text": "6 9 12",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q46",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 46,
+    "text": "Consider the following code fragment in an HTML file: ```txt <style> body { color: yellow; font-family: Arial, Cambria; } .highlight { color: red; } </style> ``` What happens if one applies the class 'highlight' to a <div> element within <html> and </html> tags in the above file? (1) The <div> element's text will turn red. (2) The <div> element's text will turn yellow. (3) The <div> element's font size will increase. (4) The <div> element's font type will change to Cambria. (5) The <div> element's border colour will change to red.",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q47",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 47,
+    "text": "Which of the following statements regarding Search Engine Optimization (SEO) are correct? A - Meta tags on web pages help SEO. B - It increases the visibility of a web page in search engines. C - Powerful computers should be used to create SEO friendly web pages. (1) A only (2) A and B only (3) A and C only (4) B and C only (5) All A, B and C [See page ten]</div></div></div></div></div></div> --- AL/2023(2024)/20/E-I",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q48",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 48,
+    "text": "Consider the following HTML code line related to a form: <form action=\"process.php\" method=\"post\"> The \"action\" attribute in it (1) specifies the data type of the form. (2) specifies the server file that handles the data in the form. (3) controls the form's alignment on the web page. (4) declares the form as a PHP script. (5) shows the process.php file on the screen.",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  },
+  {
+    "question_id": "2023_P1_Q49",
+    "year": 2023,
+    "paper": 1,
+    "q_num": 49,
+    "text": "Saman's father is a carpenter. He wants to showcase his father's work on a website. Which of the following hosting options should Saman use in order to do it with a price that he can afford? (1) Hosting it on a server that presents other websites also (shared hosting) (2) Hosting it on a Virtual Private Server (VPS) (3) Hosting it on a server dedicated to Saman (dedicated hosting) (4) Using an e-Commerce website (5) Using the services of a well known cloud service provider",
+    "marks": 2,
+    "images": [],
+    "tables": []
+  }
+]

@@ -1,9 +1,9 @@
 import json
 
-with open("data/extracted/processed/2024_P1_questions.json", "r", encoding="utf-8") as f:
+with open("data/extracted/processed/2022_P1_questions.json", "r", encoding="utf-8") as f:
     questions = json.load(f)
 
-with open("data/extracted/processed/2024_P1_scheme.json", "r", encoding="utf-8") as f:
+with open("data/extracted/processed/2022_P1_scheme.json", "r", encoding="utf-8") as f:
     scheme_raw = json.load(f)
 
 scheme = {data["question_id"]: data["answers"] for _, data in scheme_raw.items()}
@@ -23,10 +23,10 @@ for question in questions:
         print(f"No scheme for {question_id}")
 
 
-with open("data/extracted/merged/2024_P1_QA.json", "w", encoding="utf-8") as f:
+with open("data/extracted/merged/2022_P1_QA.json", "w", encoding="utf-8") as f:
     json.dump(questions, f, indent=2, ensure_ascii=False)
 
 print(f"\n Merged {merged_count}/{len(questions)} questions")
 if missing_count > 0:
     print(f" Missing {missing_count} answers")
-print("Saved to 2024_P1_QA.json")
+print("Saved to 2022_P1_QA.json")

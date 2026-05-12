@@ -77,14 +77,17 @@ def compute_confidence(dense_distances: list[float], bm25_scores_top: list[float
 # Load Indexes
 chroma_client = chromadb.PersistentClient(path="./chroma_db")
 collection = chroma_client.get_or_create_collection("units", metadata={"hnsw:space": "cosine"})
-bm25_data = json.load(open("bm25_index.json"))
+with open("bm25_index.json", encoding="utf-8") as f:
+    bm25_data = json.load(f)
 BM25_K1, BM25_B, BM25_AVGDL, BM25_IDF, BM25_DOCS, BM25_IDS = bm25_data["k1"], bm25_data["b"], bm25_data["avgdl"], bm25_data["idf"], bm25_data["docs"], bm25_data["chunk_ids"]
 BM25_ID_TO_IDX = {cid: i for i, cid in enumerate(BM25_IDS)}
-units_chunks = json.load(open("units_chunks.json"))
+with open("units_chunks.json", encoding="utf-8") as f:
+    units_chunks = json.load(f)
 chunk_keywords_by_id = {c["unit_id"] + "_" + (c["competency_level"] or "fallback"): c["keywords"] for c in units_chunks}
 
 # Main Loop
-questions = json.load(open("data/extracted/merged/2024_P1_QA.json"))
+with open("data/extracted/merged/2022_P1_QA.json", encoding="utf-8") as f:
+    questions = json.load(f)
 for q in questions:
     if "unit" in q and not q.get("needs_review"): continue
     raw_query = preprocess_query(q["text"])
@@ -118,4 +121,5 @@ for q in questions:
     q["top_units"], q["_top_docs_for_llm"] = [m["unit_number"] for m in top_metas[:3]], [{"unit_number": top_metas[i]["unit_number"], "unit_name": top_metas[i]["unit_name"], "text": top_docs[i][:600]} for i in range(min(3, len(top_metas)))]
     print(f"{q.get('question_id','?')} -> unit {q['unit']} | conf={confidence} | {'LOW -> LLM' if q['needs_review'] else 'OK'}")
 
-json.dump(questions, open("questions.json", "w"), indent=2)
+with open("questions.json", "w", encoding="utf-8") as f:
+    json.dump(questions, f, indent=2)

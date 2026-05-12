@@ -39,7 +39,7 @@ def render_question_card(q: dict, idx: int):
         parts = []
         for m in img_pattern.finditer(text):
             parts.append(("text", format_question_text(text[last_end:m.start()])))
-            parts.append(("img", f"{ASSETS_DIR}/{m.group(1)}"))
+            parts.append(("img", f"{ASSETS_DIR}/{m.group(1)}")) #image dir in \2023 
             last_end = m.end()
         parts.append(("text", format_question_text(text[last_end:])))
 
