@@ -3,7 +3,7 @@ import sqlite3
 DB = "pastpapers.db"
 
 
-def search_questions(unit: int | None = None, year: int | None = None, limit: int = 10) -> list[dict]:
+def search_questions(unit: int | None = None, year: int | None = None, limit: int = 50) -> list[dict]:
     conn = sqlite3.connect(DB)
     conn.row_factory = sqlite3.Row
     cur = conn.cursor()
@@ -31,6 +31,7 @@ def search_questions(unit: int | None = None, year: int | None = None, limit: in
     rows = cur.execute(query, params).fetchall()
     conn.close()
     return [dict(r) for r in rows]
+
 
 def get_unit_descriptions() -> str:
     conn = sqlite3.connect(DB)

@@ -22,26 +22,26 @@ def resolve_answer(raw) -> int | None:
     return int(raw)
 
 
-def clean_text(text: str) -> str:
+def format_question_text(text: str) -> str:
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
-    return text
-
+    text = re.sub(r"\s*\(([1-5])\)\s*", r"\n\n(\1) ", text)
+    return text.strip()
 
 def render_question_card(q: dict, idx: int):
     label = f"Q{q['question_number']} | Unit {q['unit']} – {q.get('unit_name', '?')} | {q['year']} P{q['paper_number']}"
     with st.expander(label):
         text = q["text"]
 
-        # Render images inline, then clean remaining text
+        # Render images inline, then format remaining text
         img_pattern = re.compile(r"!\[.*?\]\((images/[^)]+)\)")
         last_end = 0
         parts = []
         for m in img_pattern.finditer(text):
-            parts.append(("text", clean_text(text[last_end:m.start()])))
+            parts.append(("text", format_question_text(text[last_end:m.start()])))
             parts.append(("img", f"{ASSETS_DIR}/{m.group(1)}"))
             last_end = m.end()
-        parts.append(("text", clean_text(text[last_end:])))
+        parts.append(("text", format_question_text(text[last_end:])))
 
         for kind, content in parts:
             if kind == "img":
@@ -50,7 +50,7 @@ def render_question_card(q: dict, idx: int):
                 except Exception:
                     st.caption(f"[Image not found: {content}]")
             elif content.strip():
-                st.write(content)
+                st.markdown(content)
 
         correct = resolve_answer(q.get("correct_option"))
         col1, col2 = st.columns(2)
@@ -59,7 +59,7 @@ def render_question_card(q: dict, idx: int):
                 st.success(f"Correct answer: Option ({correct})")
         with col2:
             if st.button("Explain like im 5", key=f"exp_{q['question_id']}_{idx}"):
-                clean_q = clean_text(q["text"])
+                clean_q = format_question_text(q["text"])
                 with st.spinner("Explaining..."):
                     full = ""
                     placeholder = st.empty()
