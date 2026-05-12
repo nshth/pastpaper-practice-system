@@ -30,24 +30,35 @@ def _retrieve_chunks(question_text: str, k: int = 3) -> list[str]:
     return result["documents"][0]
 
 
-def stream_explanation(question_text: str, correct_option: int | None = None):
+def _build_history_messages(history: list[dict]) -> list[dict]:
+    recent = [h for h in history if h["role"] in ("user", "assistant")][-6:]
+    return [{"role": h["role"], "content": h["content"]} for h in recent]
+
+
+def stream_explanation(question_text: str, correct_option, history: list[dict]):
+    if isinstance(correct_option, list):
+        correct_option = correct_option[0] if correct_option else None
+
     chunks = _retrieve_chunks(question_text)
     context = "\n\n".join(chunks)
     answer_line = f"The correct answer is option ({correct_option}).\n" if correct_option else ""
 
-    prompt = f"""You are an ICT tutor helping a student understand a past exam question.
+    system = f"""You are an ICT tutor helping a Grade 12/13 student understand past exam questions.
+Use the syllabus context below to explain clearly and concisely.
 
 SYLLABUS CONTEXT:
-{context}
+{context}"""
 
-QUESTION:
-{question_text}
-
-{answer_line}Explain why this is the correct answer using the syllabus context. Be clear and concise."""
+    messages = [{"role": "system", "content": system}]
+    messages += _build_history_messages(history)
+    messages.append({
+        "role": "user",
+        "content": f"Explain this question:\n\n{question_text}\n\n{answer_line}"
+    })
 
     stream = _groq.chat.completions.create(
         model="llama-3.3-70b-versatile",
-        messages=[{"role": "user", "content": prompt}],
+        messages=messages,
         temperature=0.3,
         max_tokens=600,
         stream=True,
@@ -58,21 +69,23 @@ QUESTION:
             yield token
 
 
-def stream_general(user_message: str):
+def stream_general(user_message: str, history: list[dict]):
     unit_descriptions = get_unit_descriptions()
 
-    prompt = f"""You are a helpful ICT study assistant for Grade 12/13 A-Level students.
+    system = f"""You are a helpful ICT study assistant for Grade 12/13 A-Level students.
 
 SYLLABUS UNITS:
 {unit_descriptions}
 
-Answer the student's question with helpful, concise study guidance.
+Give helpful, concise study guidance."""
 
-STUDENT: {user_message}"""
+    messages = [{"role": "system", "content": system}]
+    messages += _build_history_messages(history)
+    messages.append({"role": "user", "content": user_message})
 
     stream = _groq.chat.completions.create(
         model="llama-3.3-70b-versatile",
-        messages=[{"role": "user", "content": prompt}],
+        messages=messages,
         temperature=0.5,
         max_tokens=500,
         stream=True,
